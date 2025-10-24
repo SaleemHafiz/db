@@ -1,0 +1,12 @@
+[
+  {"question":"Which empire was ruled by Suleiman the Magnificent?","options":["Ottoman Empire","Roman Empire","Mongol Empire","Persian Empire"],"answer":"Ottoman Empire"},
+  {"question":"The Treaty of Westphalia ended which war?","options":["Thirty Years' War","World War I","World War II","Seven Years' War"],"answer":"Thirty Years' War"},
+  {"question":"Who was the last Pharaoh of Egypt?","options":["Cleopatra","Tutankhamun","Ramses II","Nefertiti"],"answer":"Cleopatra"},
+  {"question":"Which revolution overthrew the Tsar of Russia?","options":["Russian Revolution","French Revolution","American Revolution","Chinese Revolution"],"answer":"Russian Revolution"},
+  {"question":"The Magna Carta was signed in which year?","options":["1215","1315","1115","1415"],"answer":"1215"},
+  {"question":"Who led the Norman conquest of England?","options":["William the Conqueror","Richard the Lionheart","Henry VIII","Edward I"],"answer":"William the Conqueror"},
+  {"question":"Which ancient civilization built Machu Picchu?","options":["Inca","Maya","Aztec","Olmec"],"answer":"Inca"},
+  {"question":"Who was the founder of the Mughal Empire in India?","options":["Babur","Akbar","Shah Jahan","Aurangzeb"],"answer":"Babur"},
+  {"question":"The Reign of Terror is associated with which country?","options":["France","England","Russia","Spain"],"answer":"France"},
+  {"question":"Which battle marked the end of Napoleon’s rule?","options":["Waterloo","Austerlitz","Borodino","Trafalgar"],"answer":"Waterloo"}
+]
