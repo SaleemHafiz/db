@@ -1,0 +1,12 @@
+[
+  {"question":"Who was the first President of the United States?","options":["George Washington","Abraham Lincoln","Thomas Jefferson","John Adams"],"answer":"George Washington"},
+  {"question":"Which country built the Great Wall?","options":["China","India","Egypt","Greece"],"answer":"China"},
+  {"question":"Who discovered America in 1492?","options":["Christopher Columbus","Marco Polo","Vasco da Gama","Magellan"],"answer":"Christopher Columbus"},
+  {"question":"In which continent is Egypt located?","options":["Africa","Asia","Europe","South America"],"answer":"Africa"},
+  {"question":"Who was known as the Iron Lady?","options":["Margaret Thatcher","Queen Elizabeth","Indira Gandhi","Angela Merkel"],"answer":"Margaret Thatcher"},
+  {"question":"The Pyramids are found in which country?","options":["Egypt","Mexico","India","Italy"],"answer":"Egypt"},
+  {"question":"Who wrote the Declaration of Independence?","options":["Thomas Jefferson","George Washington","Benjamin Franklin","John Adams"],"answer":"Thomas Jefferson"},
+  {"question":"Which war ended in 1945?","options":["World War II","World War I","Vietnam War","Korean War"],"answer":"World War II"},
+  {"question":"Who was the first man to walk on the Moon?","options":["Neil Armstrong","Buzz Aldrin","Yuri Gagarin","Michael Collins"],"answer":"Neil Armstrong"},
+  {"question":"Which empire built the Colosseum?","options":["Roman Empire","Greek Empire","Ottoman Empire","Persian Empire"],"answer":"Roman Empire"}
+]
