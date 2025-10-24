@@ -1,0 +1,12 @@
+[
+  {"question":"Which particle has a negative charge?","options":["Proton","Electron","Neutron","Photon"],"answer":"Electron"},
+  {"question":"What is the powerhouse of the cell?","options":["Nucleus","Mitochondria","Ribosome","Chloroplast"],"answer":"Mitochondria"},
+  {"question":"Which law states F=ma?","options":["Newton's First Law","Newton's Second Law","Newton's Third Law","Law of Gravitation"],"answer":"Newton's Second Law"},
+  {"question":"pH of pure water is?","options":["7","0","14","1"],"answer":"7"},
+  {"question":"What type of bond shares electrons?","options":["Ionic","Covalent","Metallic","Hydrogen"],"answer":"Covalent"},
+  {"question":"Which element has atomic number 1?","options":["Oxygen","Hydrogen","Helium","Carbon"],"answer":"Hydrogen"},
+  {"question":"Speed of sound in air at 20°C is approximately?","options":["343 m/s","300 m/s","500 m/s","100 m/s"],"answer":"343 m/s"},
+  {"question":"Which vitamin is produced when skin is exposed to sunlight?","options":["Vitamin A","Vitamin B","Vitamin C","Vitamin D"],"answer":"Vitamin D"},
+  {"question":"What is the study of earthquakes called?","options":["Seismology","Volcanology","Meteorology","Geology"],"answer":"Seismology"},
+  {"question":"Which gas is released during photosynthesis?","options":["Oxygen","Carbon Dioxide","Nitrogen","Hydrogen"],"answer":"Oxygen"}
+]
