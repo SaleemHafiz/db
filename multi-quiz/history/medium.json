@@ -1,0 +1,12 @@
+[
+  {"question":"In which year did World War II end?","options":["1940","1945","1939","1950"],"answer":"1945"},
+  {"question":"Who was the first Emperor of Rome?","options":["Augustus","Julius Caesar","Nero","Caligula"],"answer":"Augustus"},
+  {"question":"The French Revolution started in which year?","options":["1789","1776","1799","1804"],"answer":"1789"},
+  {"question":"Who was known as the Maid of Orleans?","options":["Joan of Arc","Marie Curie","Catherine the Great","Queen Victoria"],"answer":"Joan of Arc"},
+  {"question":"The Berlin Wall fell in which year?","options":["1989","1991","1980","1975"],"answer":"1989"},
+  {"question":"Who wrote 'The Prince'?","options":["Machiavelli","Plato","Aristotle","Shakespeare"],"answer":"Machiavelli"},
+  {"question":"Which empire was ruled by Genghis Khan?","options":["Mongol Empire","Roman Empire","Ottoman Empire","Persian Empire"],"answer":"Mongol Empire"},
+  {"question":"Who was the first Prime Minister of India?","options":["Jawaharlal Nehru","Mahatma Gandhi","Indira Gandhi","Rajendra Prasad"],"answer":"Jawaharlal Nehru"},
+  {"question":"Which country was split into East and West in 1949?","options":["Germany","Korea","Vietnam","Italy"],"answer":"Germany"},
+  {"question":"Who painted the 'Mona Lisa'?","options":["Leonardo da Vinci","Michelangelo","Raphael","Donatello"],"answer":"Leonardo da Vinci"}
+]
