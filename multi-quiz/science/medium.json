@@ -1,0 +1,12 @@
+[
+  {"question":"What is the chemical symbol for Gold?","options":["Au","Ag","Gd","Go"],"answer":"Au"},
+  {"question":"Which planet is known for its rings?","options":["Saturn","Jupiter","Mars","Neptune"],"answer":"Saturn"},
+  {"question":"Which organ produces insulin?","options":["Liver","Pancreas","Kidney","Heart"],"answer":"Pancreas"},
+  {"question":"Speed of light is approximately?","options":["300,000 km/s","150,000 km/s","1,000 km/s","30,000 km/s"],"answer":"300,000 km/s"},
+  {"question":"What is the boiling point of water at sea level?","options":["100°C","90°C","120°C","80°C"],"answer":"100°C"},
+  {"question":"Which gas is most abundant in Earth's atmosphere?","options":["Oxygen","Nitrogen","Carbon Dioxide","Hydrogen"],"answer":"Nitrogen"},
+  {"question":"Atomic number represents?","options":["Protons","Neutrons","Electrons","Atoms"],"answer":"Protons"},
+  {"question":"Which planet is closest to the Sun?","options":["Mercury","Venus","Earth","Mars"],"answer":"Mercury"},
+  {"question":"DNA stands for?","options":["Deoxyribonucleic Acid","Deoxynuclear Acid","Dinitro Acid","Dioxin Acid"],"answer":"Deoxyribonucleic Acid"},
+  {"question":"Which organ filters blood in the human body?","options":["Kidney","Heart","Lungs","Liver"],"answer":"Kidney"}
+]
