@@ -1,0 +1,12 @@
+[
+  {"question":"What planet is known as the Red Planet?","options":["Earth","Mars","Jupiter","Venus"],"answer":"Mars"},
+  {"question":"What gas do plants absorb from the atmosphere?","options":["Oxygen","Carbon Dioxide","Nitrogen","Hydrogen"],"answer":"Carbon Dioxide"},
+  {"question":"How many legs do insects have?","options":["4","6","8","10"],"answer":"6"},
+  {"question":"Water freezes at what temperature in Celsius?","options":["0","32","100","50"],"answer":"0"},
+  {"question":"Which organ pumps blood through the body?","options":["Brain","Heart","Liver","Kidney"],"answer":"Heart"},
+  {"question":"What is the main source of energy for the Earth?","options":["Moon","Sun","Stars","Wind"],"answer":"Sun"},
+  {"question":"Which is the largest planet in our Solar System?","options":["Earth","Mars","Jupiter","Saturn"],"answer":"Jupiter"},
+  {"question":"Humans breathe in which gas?","options":["Carbon Dioxide","Oxygen","Nitrogen","Helium"],"answer":"Oxygen"},
+  {"question":"Which part of a plant absorbs water from soil?","options":["Stem","Leaf","Root","Flower"],"answer":"Root"},
+  {"question":"What is H2O commonly known as?","options":["Salt","Water","Oxygen","Hydrogen"],"answer":"Water"}
+]
