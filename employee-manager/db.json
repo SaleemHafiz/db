@@ -1,0 +1,85 @@
+{
+  "users":[
+  {
+    "id": 1,
+    "name": "Ahmad Raza",
+    "username": "ahmadraza",
+    "email": "ahmad.raza@gmail.com",
+    "phone": "0301-4567890",
+    "website": "ahmadraza.pk"
+  },
+  {
+    "id": 2,
+    "name": "Fatima Khan",
+    "username": "fatimakhan",
+    "email": "fatima.khan@gmail.com",
+    "phone": "0321-9876543",
+    "website": "fatimakhan.com"
+  },
+  {
+    "id": 3,
+    "name": "Bilal Ahmed",
+    "username": "bilalahmed",
+    "email": "bilal.ahmed@yahoo.com",
+    "phone": "0333-1234567",
+    "website": "bilalahmed.dev"
+  },
+  {
+    "id": 4,
+    "name": "Zainab Ali",
+    "username": "zainabali",
+    "email": "zainab.ali@gmail.com",
+    "phone": "0300-9988776",
+    "website": "zainabali.pk"
+  },
+  {
+    "id": 5,
+    "name": "Usman Siddiqui",
+    "username": "usmansid",
+    "email": "usman.siddiqui@gmail.com",
+    "phone": "0345-6655443",
+    "website": "usmansiddiqui.com"
+  },
+  {
+    "id": 6,
+    "name": "Ayesha Noor",
+    "username": "ayeshasoft",
+    "email": "ayesha.noor@hotmail.com",
+    "phone": "0312-3344556",
+    "website": "ayeshanoor.pk"
+  },
+  {
+    "id": 7,
+    "name": "Hamza Tariq",
+    "username": "hamzat",
+    "email": "hamza.tariq@gmail.com",
+    "phone": "0306-7766554",
+    "website": "hamzatariq.me"
+  },
+  {
+    "id": 8,
+    "name": "Sara Malik",
+    "username": "saramalik",
+    "email": "sara.malik@gmail.com",
+    "phone": "0315-7788991",
+    "website": "saramalik.net"
+  },
+  {
+    "id": 9,
+    "name": "Ali Hassan",
+    "username": "alihassan",
+    "email": "ali.hassan@gmail.com",
+    "phone": "0332-1122334",
+    "website": "alihassan.pk"
+  },
+  {
+    "id": 10,
+    "name": "Maryam Yousaf",
+    "username": "maryamy",
+    "email": "maryam.yousaf@gmail.com",
+    "phone": "0347-5566778",
+    "website": "maryamyousaf.com"
+  }
+]
+
+}
