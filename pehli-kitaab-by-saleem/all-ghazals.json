@@ -8,62 +8,142 @@
       "groups": [
         {
           "lines": [
-            "یہ دنیا تمہاری خدا بھی تمہارا",
-            "تمہارا جہاں ہے یہ سارے کا سارا"
+            {
+              "urdu": "یہ دنیا تمہاری خدا بھی تمہارا",
+              "roman": "ye duniya tumhari khuda bhi tumhara",
+              "devnagri": "ये दुनिया तुम्हारी खुदा भी तुम्हारा"
+            },
+            {
+              "urdu": "تمہارا جہاں ہے یہ سارے کا سارا",
+              "roman": "tumhara jahan hai ye sare ka sara",
+              "devnagri": "तुम्हारा जहां है ये सारे का सारा"
+            }
           ]
         },
         {
           "lines": [
-            "مجھے نہ دیا کوئی بھی چارۂ دل",
-            "تمہارے لئے آسماں سے اتارا"
+            {
+              "urdu": "مجھے نہ دیا کوئی بھی چارۂ دل",
+              "roman": "mujhe na diya koi bhi chara e dil",
+              "devnagri": "मुझे न दिया कोई भी चारए दिल"
+            },
+            {
+              "urdu": "تمہارے لئے آسماں سے اتارا",
+              "roman": "tumhare liye asman se utara",
+              "devnagri": "तुम्हारे लिये आसमां से उतारा"
+            }
           ]
         },
         {
           "lines": [
-            "دوا سے ہی پرہیز جسکو بتاؤ",
-            "گلہ تو کریگا وہ دردوں کا مارا"
+            {
+              "urdu": "دوا سے ہی پرہیز جسکو بتاؤ",
+              "roman": "dawa se hi parhez jisko batao",
+              "devnagri": "दवा से ही परहेज़ जिसको बताओ"
+            },
+            {
+              "urdu": "گلہ تو کریگا وہ دردوں کا مارا",
+              "roman": "gila to karega woh dardon ka mara",
+              "devnagri": "गिला तो करेगा वो दर्दों का मारा"
+            }
           ]
         },
         {
           "lines": [
-            "بھلا مسکرانا کہاں کا گناہ ہے",
-            "بِنا مسکرائے ہو کیسے گزارا"
+            {
+              "urdu": "بھلا مسکرانا کہاں کا گناہ ہے",
+              "roman": "bhala muskurana kahan ka gunah hai",
+              "devnagri": "भला मुस्कुराना कहाँ का गुनाह है"
+            },
+            {
+              "urdu": "بِنا مسکرائے ہو کیسے گزارا",
+              "roman": "bina muskuraye ho kaise guzara",
+              "devnagri": "बिना मुस्कुराये हो कैसे गुज़ारा"
+            }
           ]
         },
         {
           "lines": [
-            "تمہی بس تمہارے ہو ساتھی و دشمن",
-            "خود ہی اپنی منزل کا ہو تم کنارا"
+            {
+              "urdu": "تمہی بس تمہارے ہو ساتھی و دشمن",
+              "roman": "tumhi bas tumhare ho sathi o dushman",
+              "devnagri": "तुमही बस तुम्हारे हो साथी ओ दुश्मन"
+            },
+            {
+              "urdu": "خود ہی اپنی منزل کا ہو تم کنارا",
+              "roman": "khud hi apni manzil ka ho tum kinara",
+              "devnagri": "खुद ही अपनी मंज़िल का हो तुम किनारा"
+            }
           ]
         },
         {
           "lines": [
-            "جگر دل جلوں کی بھی کیا زندگی ہے",
-            "محبت سے نفرت ہے دل بھی آوارہ"
+            {
+              "urdu": "جگر دل جلوں کی بھی کیا زندگی ہے",
+              "roman": "jigar dil jalon ki bhi kya zindagi hai",
+              "devnagri": "जिगर दिल जलों की भी क्या ज़िंदगी है"
+            },
+            {
+              "urdu": "محبت سے نفرت ہے دل بھی آوارہ",
+              "roman": "mohabbat se nafrat hai dil bhi awara",
+              "devnagri": "मोहब्बत से नफरत है दिल भी आवारा"
+            }
           ]
         },
         {
           "lines": [
-            "یہ مانا زمانہ سمجھتا نہیں ہے",
-            "دو دن زندگی ہے یہ کر لو گوارہ"
+            {
+              "urdu": "یہ مانا زمانہ سمجھتا نہیں ہے",
+              "roman": "ye mana zamana samajhta nahi hai",
+              "devnagri": "ये माना ज़माना समझता नहीं है"
+            },
+            {
+              "urdu": "دو دن زندگی ہے یہ کر لو گوارہ",
+              "roman": "do din zindagi hai ye kar lo gawara",
+              "devnagri": "दो दिन ज़िंदगी है ये कर लो गवारा"
+            }
           ]
         },
         {
           "lines": [
-            "کبھی تُو کہے آ، کبھی تُو کہے جا",
-            "یا دنیا کا ہو لے یا بن جا ہمارا"
+            {
+              "urdu": "کبھی تُو کہے آ، کبھی تُو کہے جا",
+              "roman": "kabhi tu kahe aa, kabhi tu kahe ja",
+              "devnagri": "कभी तू कहे आ, कभी तू कहे जा"
+            },
+            {
+              "urdu": "یا دنیا کا ہو لے یا بن جا ہمارا",
+              "roman": "ya duniya ka ho le ya ban ja hamara",
+              "devnagri": "या दुनिया का हो ले या बन जा हमारा"
+            }
           ]
         },
         {
           "lines": [
-            "خدا تیری مرضی ہے جو بھی کرے تو",
-            "میں کیسے کہوں کہ یوں کر نہ خدارا"
+            {
+              "urdu": "خدا تیری مرضی ہے جو بھی کرے تو",
+              "roman": "khuda teri marzi hai jo bhi kare tu",
+              "devnagri": "खुदा तेरी मर्ज़ी है जो भी करे तू"
+            },
+            {
+              "urdu": "میں کیسے کہوں کہ یوں کر نہ خدارا",
+              "roman": "main kaise kahun ke yun kar na khudara",
+              "devnagri": "मैं कैसे कहूं के यूं कर न खुदारा"
+            }
           ]
         },
         {
           "lines": [
-            "وہ باتیں کرینگے کرینگے کرینگے",
-            "سلیم انکی باتوں سے کر لو کنارہ"
+            {
+              "urdu": "وہ باتیں کرینگے کرینگے کرینگے",
+              "roman": "woh baatein karenge karenge karenge",
+              "devnagri": "वो बातें करेंगे करेंगे करेंगे"
+            },
+            {
+              "urdu": "سلیم انکی باتوں سے کر لو کنارہ",
+              "roman": "saleem unki baaton se kar lo kinara",
+              "devnagri": "सलीम उनकी बातों से कर लो किनारा"
+            }
           ]
         }
       ]
@@ -72,50 +152,114 @@
       "groups": [
         {
           "lines": [
-            "اگر دل ہی جلانا تھا اسی دن ہی جلا دیتے",
-            "جہاں تم سے ملے تھے ہم وہیں تم کو بھلا دیتے"
+            {
+              "urdu": "اگر دل ہی جلانا تھا اسی دن ہی جلا دیتے",
+              "roman": "agar dil hi jalana tha usi din hi jala dete",
+              "devnagri": "अगर दिल ही जलाना था उसी दिन ही जला देते"
+            },
+            {
+              "urdu": "جہاں تم سے ملے تھے ہم وہیں تم کو بھلا دیتے",
+              "roman": "jahan tum se mile the hum wahi tum ko bhula dete",
+              "devnagri": "जहाँ तुम से मिले थे हम वहीं तुम को भुला देते"
+            }
           ]
         },
         {
           "lines": [
-            "خیالوں کے گلستاں میں گلوں پہ تتلیاں بیٹِھیں",
-            "اگر پہلے بتاتے تم ہم ان سب کو اُڑا دیتے"
+            {
+              "urdu": "خیالوں کے گلستاں میں گلوں پہ تتلیاں بیٹھی",
+              "roman": "khayalon ke gulistan mein gulon pe titliyan baithi",
+              "devnagri": "ख़यालों के गुलिस्तां में गुलों पे तितलियाँ बैठीं"
+            },
+            {
+              "urdu": "اگر پہلے بتاتے تم ہم ان سب کو اڑا دیتے",
+              "roman": "agar pehle batate tum hum un sab ko uda dete",
+              "devnagri": "अगर पहले बताते तुम हम उन सब को उड़ा देते"
+            }
           ]
         },
         {
           "lines": [
-            "یہ انجامِ محبت تھا اگر پہلے پتا ہوتا",
-            "دِیا اپنی محبت کا خودی اٹھ کے بُجھا دیتے"
+            {
+              "urdu": "یہ انجامِ محبت تھا اگر پہلے پتا ہوتا",
+              "roman": "ye anjam e mohabbat tha agar pehle pata hota",
+              "devnagri": "ये अंजाम ए मोहब्बत था अगर पहले पता होता"
+            },
+            {
+              "urdu": "دیا اپنی محبت کا خودی اٹھ کے بجھا دیتے",
+              "roman": "diya apni mohabbat ka khudi uth ke bujha dete",
+              "devnagri": "दिया अपनी मोहब्बत का खुदी उठ के बुझा देते"
+            }
           ]
         },
         {
           "lines": [
-            "کہوں کیا دل کہاں کھویا محبت میں نہ پوچھو تم",
-            "بتا پاتے اگر کچھ بھی مری جاں پھر بتا دیتے"
+            {
+              "urdu": "کہوں کیا دل کہاں کھویا محبت میں نہ پوچھو تم",
+              "roman": "kahun kya dil kahan khoya mohabbat mein na poochho tum",
+              "devnagri": "कहूं क्या दिल कहाँ खोया मोहब्बत में न पूछो तुम"
+            },
+            {
+              "urdu": "بتا پاتے اگر کچھ بھی مری جاں پھر بتا دیتے",
+              "roman": "bata pate agar kuch bhi meri jaan phir bata dete",
+              "devnagri": "बता पाते अगर कुछ भी मेरी जां फिर बता देते"
+            }
           ]
         },
         {
           "lines": [
-            "مری باتیں، مرے جذبے محبت کے نہیں سستے",
-            "مگر پھر بھی نہیں ہم کچھ محبت کے سوا دیتے"
+            {
+              "urdu": "مری باتیں مرے جذبے محبت کے نہیں سستے",
+              "roman": "meri baatein mere jazbe mohabbat ke nahi suste",
+              "devnagri": "मेरी बातें मेरे जज़्बे मोहब्बत के नहीं सुस्ते"
+            },
+            {
+              "urdu": "مگر پھر بھی نہیں ہم کچھ محبت کے سوا دیتے",
+              "roman": "magar phir bhi nahi hum kuch mohabbat ke siwa dete",
+              "devnagri": "मगर फिर भी नहीं हम कुछ मोहब्बत के सिवा देते"
+            }
           ]
         },
         {
           "lines": [
-            "اکیلا تو نہیں ہوں میں شبِ غم کی خموشی میں",
-            "ستارے رات بھر مل کے مجھے ہیں آسرا دیتے"
+            {
+              "urdu": "اکیلا تو نہیں ہوں میں شبِ غم کی خموشی میں",
+              "roman": "akela to nahi hun main shab e gham ki khamoshi mein",
+              "devnagri": "अकेला तो नहीं हूँ मैं शब ए ग़म की खामोशी में"
+            },
+            {
+              "urdu": "ستارے رات بھر مل کے مجھے ہیں آسرا دیتے",
+              "roman": "sitare raat bhar mil ke mujhe hain aasra dete",
+              "devnagri": "सितारे रात भर मिल के मुझे हैं आसरा देते"
+            }
           ]
         },
         {
           "lines": [
-            "ارے ساقی مرے پہلو گزارو آج کی یہ شب",
-            "کہاں اچھے لگیں گے دور سے پھر پھر صدا دیتے"
+            {
+              "urdu": "ارے ساقی مرے پہلو گزارو آج کی یہ شب",
+              "roman": "are saqi mere pehlu guzaro aaj ki ye shab",
+              "devnagri": "अरे साक़ी मेरे पहलू गुज़ारो आज की ये शब"
+            },
+            {
+              "urdu": "کہاں اچھے لگیں گے دور سے پھر پھر صدا دیتے",
+              "roman": "kahan achhe lagenge door se phir phir sada dete",
+              "devnagri": "कहाँ अच्छे लगेंगे दूर से फिर फिर सदा देते"
+            }
           ]
         },
         {
           "lines": [
-            "اگر اک جام تیری یاد کا پھر سے لگا لیتے",
-            "شروع کرتے تری باتیں سوئی محفل جگا دیتے"
+            {
+              "urdu": "اگر اک جام تیری یاد کا پھر سے لگا لیتے",
+              "roman": "agar ek jaam teri yaad ka phir se laga lete",
+              "devnagri": "अगर एक जाम तेरी याद का फिर से लगा लेते"
+            },
+            {
+              "urdu": "شروع کرتے تری باتیں سوئی محفل جگا دیتے",
+              "roman": "shuru karte teri baatein soyi mehfil jaga dete",
+              "devnagri": "शुरू करते तेरी बातें सोई महफ़िल जगा देते"
+            }
           ]
         }
       ]
@@ -124,50 +268,114 @@
       "groups": [
         {
           "lines": [
-            "بے سبب میں چپ رہوں کتنی عجب بے چارگی ہے",
-            "بے سکونی جو مرے دل کو ملی ہے تم نے دی ہے"
+            {
+              "urdu": "بے سبب میں چپ رہوں کتنی عجب بے چارگی ہے",
+              "roman": "be sabab main chup rahun kitni ajab be chargi hai",
+              "devnagri": "बे सबब मैं चुप रहूँ कितनी अजब बे चारगी है"
+            },
+            {
+              "urdu": "بے سکونی جو مرے دل کو ملی ہے تم نے دی ہے",
+              "roman": "be sukooni jo mere dil ko mili hai tum ne di hai",
+              "devnagri": "बे सुक़ूनी जो मेरे दिल को मिली है तुम ने दी है"
+            }
           ]
         },
         {
           "lines": [
-            "داستاں تُو نے سنی نہ حال پوچھا نہ ذرا بھی",
-            "فکر اپنی ہے تجھے بس، صرف اپنی بات کی ہے"
+            {
+              "urdu": "داستاں تُو نے سنی نہ حال پوچھا نہ ذرا بھی",
+              "roman": "dastaan tu ne suni na haal poocha na zara bhi",
+              "devnagri": "दास्तां तू ने सुनी न हाल पूछा न ज़रा भी"
+            },
+            {
+              "urdu": "فکر اپنی ہے تجھے بس، صرف اپنی بات کی ہے",
+              "roman": "fikr apni hai tujhe bas sirf apni baat ki hai",
+              "devnagri": "फिक्र अपनी है तुझे बस, सिर्फ अपनी बात की है"
+            }
           ]
         },
         {
           "lines": [
-            "یہ نہیں کہ دل مرے کو درد ہوتا ہی نہیں ہے",
-            "جو شکایت نہ کروں تو یہ تو میری سادگی ہے"
+            {
+              "urdu": "یہ نہیں کہ دل مرے کو درد ہوتا ہی نہیں ہے",
+              "roman": "ye nahi ke dil mere ko dard hota hi nahi hai",
+              "devnagri": "ये नहीं के दिल मेरे को दर्द होता ही नहीं है"
+            },
+            {
+              "urdu": "جو شکایت نہ کروں تو یہ تو میری سادگی ہے",
+              "roman": "jo shikayat na karun to ye to meri sadgi hai",
+              "devnagri": "जो शिकायत न करूं तो ये तो मेरी सादगी है"
+            }
           ]
         },
         {
           "lines": [
-            "آج رہنے دو کم از کم جیسی بھی ناراضگی ہے",
-            "رات بھی تو ہے سہانی اور پھر برسات بھی ہے"
+            {
+              "urdu": "آج رہنے دو کم از کم جیسی بھی ناراضگی ہے",
+              "roman": "aaj rehne do kam az kam jaisi bhi narazgi hai",
+              "devnagri": "आज रहने दो कम अज़ कम जैसी भी नाराज़गी है"
+            },
+            {
+              "urdu": "رات بھی تو ہے سہانی اور پھر برسات بھی ہے",
+              "roman": "raat bhi to hai suhane aur phir barsaat bhi hai",
+              "devnagri": "रात भी तो है सुहानी और फिर बरसात भी है"
+            }
           ]
         },
         {
           "lines": [
-            "دل لگا تو پھر لگایا نہ لگا تو خیر پھر بھی",
-            "دل جلوں کے دل جلانا یار تیری دل لگی ہے"
+            {
+              "urdu": "دل لگا تو پھر لگایا نہ لگا تو خیر پھر بھی",
+              "roman": "dil laga to phir lagaya na laga to khair phir bhi",
+              "devnagri": "दिल लगा तो फिर लगाया न लगा तो खैर फिर भी"
+            },
+            {
+              "urdu": "دل جلوں کے دل جلانا یار تیری دل لگی ہے",
+              "roman": "dil jalon ke dil jalana yaar teri dillagi hai",
+              "devnagri": "दिल जलों के दिल जलाना यार तेरी दिल्लगी है"
+            }
           ]
         },
         {
           "lines": [
-            "رشوتیں نہ لے کبھی یہ بات بھی نہ مانتی ہے",
-            "یہ وفا بس عاشقوں سے جان ہی کیوں مانگتی ہے"
+            {
+              "urdu": "رشوتیں نہ لے کبھی یہ بات بھی نہ مانتی ہے",
+              "roman": "rishwatein na le kabhi ye baat bhi na maanta hai",
+              "devnagri": "रिश्वतें न ले कभी ये बात भी न मानती है"
+            },
+            {
+              "urdu": "یہ وفا بس عاشقوں سے جان ہی کیوں مانگتی ہے",
+              "roman": "ye wafa bas aashiqon se jaan hi kyu maangti hai",
+              "devnagri": "ये वफ़ा बस आशिकों से जान ही क्यूं मांगती है"
+            }
           ]
         },
         {
           "lines": [
-            "آنکھ لگتی ہے ذرا جو ہڑبڑا اٹھ بیٹھتا ہوں",
-            "بند آنکھوں میں تری تصویر آ کر تیرتی ہے"
+            {
+              "urdu": "آنکھ لگتی ہے ذرا جو ہڑبڑا اٹھ بیٹھتا ہوں",
+              "roman": "aankh lagti hai zara jo harbara uth baithta hun",
+              "devnagri": "आंख लगती है ज़रा जो हड़बड़ा उठ बैठता हूँ"
+            },
+            {
+              "urdu": "بند آنکھوں میں تری تصویر آ کر تیرتی ہے",
+              "roman": "band aankhon mein teri tasveer aa kar teerti hai",
+              "devnagri": "बंद आंखों में तेरी तस्वीर आ कर तैरती है"
+            }
           ]
         },
         {
           "lines": [
-            "جب سلیم اس بار تم سے وہ ملیں تو صاف کہنا",
-            "آج واضح کر کے جاؤ بات جو بھی چل رہی ہے"
+            {
+              "urdu": "جب سلیم اس بار تم سے وہ ملیں تو صاف کہنا",
+              "roman": "jab saleem is baar tum se woh milen to saaf kehna",
+              "devnagri": "जब सलीम इस बार तुम से वो मिलें तो साफ़ कहना"
+            },
+            {
+              "urdu": "آج واضح کر کے جاؤ بات جو بھی چل رہی ہے",
+              "roman": "aaj wazeh kar ke jao baat jo bhi chal rahi hai",
+              "devnagri": "आज वाज़ेह कर के जाओ बात जो भी चल रही है"
+            }
           ]
         }
       ]
@@ -176,48 +384,200 @@
       "groups": [
         {
           "lines": [
-            "نہ میرا کوئی راستہ",
-            "نہ منزلوں کا ہے پتا",
-            "یہ نفسا نفسی کا سماں",
-            "گلی سڑک رواں دواں",
-            "لگے مجھے ویراں ویراں",
-            "نہ جانوں جانا ہے کہاں",
-            "گِروں اُٹھوں اُٹھوں گِروں",
-            "آوارہ کس لیے پھروں",
-            "مجھے نہ رات کا پتا",
-            "مجھے نہ دن کی ہوش ہے",
-            "قصور نہ کسی کا ہے",
-            "کسی کا بھی نہ دوش ہے",
-            "الگ سی بھاگ دوڑ میں",
-            "میں گمشدہ ہوں شور میں"
+            {
+              "urdu": "نہ میرا کوئی راستہ",
+              "roman": "na mera koi raasta",
+              "devnagri": "न मेरा कोई रास्ता"
+            },
+            {
+              "urdu": "نہ منزلوں کا ہے پتا",
+              "roman": "na manzilon ka hai pata",
+              "devnagri": "न मंज़िलों का है पता"
+            },
+            {
+              "urdu": "یہ نفسا نفسی کا سماں",
+              "roman": "ye nafsa nafsi ka samaan",
+              "devnagri": "ये नफ़्सा नफ़्सी का समां"
+            },
+            {
+              "urdu": "گلی سڑک رواں دواں",
+              "roman": "gali sadak rawan dawaan",
+              "devnagri": "गली सड़क रवां दवां"
+            },
+            {
+              "urdu": "لگے مجھے ویراں ویراں",
+              "roman": "lage mujhe veeran veeran",
+              "devnagri": "लगे मुझे वीरां वीरां"
+            },
+            {
+              "urdu": "نہ جانوں جانا ہے کہاں",
+              "roman": "na janoon jana hai kahan",
+              "devnagri": "न जानूं जाना है कहाँ"
+            },
+            {
+              "urdu": "گِروں اُٹھوں اُٹھوں گِروں",
+              "roman": "girun uthun uthun girun",
+              "devnagri": "गिरूं उठूं उठूं गिरूं"
+            },
+            {
+              "urdu": "آوارہ کس لیے پھروں",
+              "roman": "awara kis liye phirun",
+              "devnagri": "आवारा किस लिए फिरूं"
+            },
+            {
+              "urdu": "مجھے نہ رات کا پتا",
+              "roman": "mujhe na raat ka pata",
+              "devnagri": "मुझे न रात का पता"
+            },
+            {
+              "urdu": "مجھے نہ دن کی ہوش ہے",
+              "roman": "mujhe na din ki hosh hai",
+              "devnagri": "मुझे न दिन की होश है"
+            },
+            {
+              "urdu": "قصور نہ کسی کا ہے",
+              "roman": "qasoor na kisi ka hai",
+              "devnagri": "कसूर न किसी का है"
+            },
+            {
+              "urdu": "کسی کا بھی نہ دوش ہے",
+              "roman": "kisi ka bhi na dosh hai",
+              "devnagri": "किसी का भी न दोष है"
+            },
+            {
+              "urdu": "الگ سی بھاگ دوڑ میں",
+              "roman": "alag si bhaag daud mein",
+              "devnagri": "अलग सी भाग दौड़ में"
+            },
+            {
+              "urdu": "میں گمشدہ ہوں شور میں",
+              "roman": "main gumshuda hoon shor mein",
+              "devnagri": "मैं गुमशुदा हूँ शोर में"
+            }
           ]
         },
         {
           "lines": [
-            "نجانے کیا ہوں ڈھونڈتا",
-            "ہوں دائروں میں گھومتا",
-            "میں گردشوں میں ہوں پھنسا",
-            "معاملہ ہے کونسا",
-            "یہ کھیل بے کنار ہے",
-            "یہ بے درودیوار ہے",
-            "اُٹھوں جگہ جگہ گِروں",
-            "حواس باختہ پھروں",
-            "یہ جینا کیوں محال ہے",
-            "یہ زندگی سوال ہے",
-            "سوال پیچدار ہے",
-            "دماغ پہ سوار ہے",
-            "جہاد نامراد ہے",
-            "تضاد ہی تضاد ہے",
-            "یہ دوڑ دھوپ رائیگاں",
-            "خود ہی ہوں خود سے بدگماں",
-            "خود ہی سے بدگماں ہوں میں",
-            "بہت ہی سوچتا ہوں میں",
-            "پھسل کر اپنے آپ سے",
-            "ہی دور جا رہا ہوں میں",
-            "میں مشکلوں میں ہوں پڑا",
-            "سُلگتی دھوپ میں کھڑا",
-            "تو خوشگوار شام دے",
-            "خدا مجھے آرام دے"
+            {
+              "urdu": "نجانے کیا ہوں ڈھونڈتا",
+              "roman": "na jane kya hoon dhoondta",
+              "devnagri": "न जाने क्या हूँ ढूंढता"
+            },
+            {
+              "urdu": "ہوں دائروں میں گھومتا",
+              "roman": "hoon dairon mein ghoomta",
+              "devnagri": "हूँ दायरों में घूमता"
+            },
+            {
+              "urdu": "میں گردشوں میں ہوں پھنسا",
+              "roman": "main gardishon mein hoon phansa",
+              "devnagri": "मैं गर्दिशों में हूँ फंसा"
+            },
+            {
+              "urdu": "معاملہ ہے کونسا",
+              "roman": "maamla hai kaunsa",
+              "devnagri": "मामला है कौनसा"
+            },
+            {
+              "urdu": "یہ کھیل بے کنار ہے",
+              "roman": "ye khel be kinara hai",
+              "devnagri": "ये खेल बे किनारा है"
+            },
+            {
+              "urdu": "یہ بے درودیوار ہے",
+              "roman": "ye be dar o deewar hai",
+              "devnagri": "ये बे दर ओ दीवार है"
+            },
+            {
+              "urdu": "اُٹھوں جگہ جگہ گِروں",
+              "roman": "uthun jagah jagah girun",
+              "devnagri": "उठूं जगह जगह गिरूं"
+            },
+            {
+              "urdu": "حواس باختہ پھروں",
+              "roman": "hawaas bakhta phirun",
+              "devnagri": "हवास बाख्ता फिरूं"
+            },
+            {
+              "urdu": "یہ جینا کیوں محال ہے",
+              "roman": "ye jeena kyu muhaal hai",
+              "devnagri": "ये जीना क्यूं मुहाल है"
+            },
+            {
+              "urdu": "یہ زندگی سوال ہے",
+              "roman": "ye zindagi sawal hai",
+              "devnagri": "ये ज़िंदगी सवाल है"
+            },
+            {
+              "urdu": "سوال پیچدار ہے",
+              "roman": "sawal paichdaar hai",
+              "devnagri": "सवाल पेंचदार है"
+            },
+            {
+              "urdu": "دماغ پہ سوار ہے",
+              "roman": "dimaag pe sawar hai",
+              "devnagri": "दिमाग पे सवार है"
+            },
+            {
+              "urdu": "جہاد نامراد ہے",
+              "roman": "jihad naamuraad hai",
+              "devnagri": "जिहाद नामुराद है"
+            },
+            {
+              "urdu": "تضاد ہی تضاد ہے",
+              "roman": "tazad hi tazad hai",
+              "devnagri": "तज़ाद ही तज़ाद है"
+            },
+            {
+              "urdu": "یہ دوڑ دھوپ رائیگاں",
+              "roman": "ye daud dhoop raigan",
+              "devnagri": "ये दौड़ धूप राइगां"
+            },
+            {
+              "urdu": "خود ہی ہوں خود سے بدگماں",
+              "roman": "khud hi hoon khud se badgumaan",
+              "devnagri": "खुद ही हूँ खुद से बदगुमां"
+            },
+            {
+              "urdu": "خود ہی سے بدگماں ہوں میں",
+              "roman": "khud hi se badgumaan hoon main",
+              "devnagri": "खुद ही से बदगुमां हूँ मैं"
+            },
+            {
+              "urdu": "بہت ہی سوچتا ہوں میں",
+              "roman": "bahut hi sochta hoon main",
+              "devnagri": "बहुत ही सोचता हूँ मैं"
+            },
+            {
+              "urdu": "پھسل کر اپنے آپ سے",
+              "roman": "phisal kar apne aap se",
+              "devnagri": "फिसल कर अपने आप से"
+            },
+            {
+              "urdu": "ہی دور جا رہا ہوں میں",
+              "roman": "hi door ja raha hoon main",
+              "devnagri": "ही दूर जा रहा हूँ मैं"
+            },
+            {
+              "urdu": "میں مشکلوں میں ہوں پڑا",
+              "roman": "main mushkilon mein hoon pada",
+              "devnagri": "मैं मुश्किलों में हूँ पड़ा"
+            },
+            {
+              "urdu": "سُلگتی دھوپ میں کھڑا",
+              "roman": "sulgti dhoop mein khada",
+              "devnagri": "सुलगती धूप में खड़ा"
+            },
+            {
+              "urdu": "تو خوشگوار شام دے",
+              "roman": "tu khushgawar shaam de",
+              "devnagri": "तू खुशगवार शाम दे"
+            },
+            {
+              "urdu": "خدا مجھے آرام دے",
+              "roman": "khuda mujhe aaram de",
+              "devnagri": "खुदा मुझे आराम दे"
+            }
           ]
         }
       ]
@@ -226,72 +586,116 @@
       "groups": [
         {
           "lines": [
-            "محبت تری کا بتا کیا بنا",
-            "تری عاشقی کا بتا کیا بنا"
-          ]
-        },
-        {
-          "lines": [
-            "تجھے پیار جس آدمی سے ہوا",
-            "اب اس آدمی کا بتا کیا بنا"
-          ]
-        },
-        {
-          "lines": [
-            "ہاں کچھ ختم تو ہو گئی تھی مگر",
-            "بچی سادگی کا بتا کیا بنا"
-          ]
-        },
-        {
-          "lines": [
-            "مری زندگی تو کٹی سو کٹی",
-            "تری زندگی کا بتا کیا بنا"
-          ]
-        },
-        {
-          "lines": [
-            "میں ضائع ہوئی کا نہیں پوچھتا",
-            "بچائی ہوئی کا بتا کیا بنا"
-          ]
-        },
-        {
-          "lines": [
-            "لٹا دل، لٹی جاں، یہ مانا مگر",
-            "کھڑی جھونپڑی کا بتا کیا بنا"
-          ]
-        },
-        {
-          "lines": [
-            "سنا جو چکا ہے وہ پھر مت سنا",
-            "کسی دوسری کا بتا کیا بنا"
+            {
+              "urdu": "محبت تری کا بتا کیا بنا",
+              "roman": "Mohabbat teri ka bata kya bana",
+              "devnagri": "मोहब्बत तेरी का बता क्या बना"
+            },
+            {
+              "urdu": "تری عاشقی کا بتا کیا بنا",
+              "roman": "Teri aashiqi ka bata kya bana",
+              "devnagri": "तेरी आशिकी का बता क्या बना"
+            },
+            {
+              "urdu": "تجھے پیار جس آدمی سے ہوا",
+              "roman": "Tujhe pyar jis aadmi se hua",
+              "devnagri": "तुझे प्यार जिस आदमी से हुआ"
+            },
+            {
+              "urdu": "اب اس آدمی کا بتا کیا بنا",
+              "roman": "Ab us aadmi ka bata kya bana",
+              "devnagri": "अब उस आदमी का बता क्या बना"
+            },
+            {
+              "urdu": "ہاں کچھ ختم تو ہو گئی تھی مگر",
+              "roman": "Haan kuch khatam to ho gayi thi magar",
+              "devnagri": "हाँ कुछ खत्म तो हो गई थी मगर"
+            },
+            {
+              "urdu": "بچی سادگی کا بتا کیا بنا",
+              "roman": "Bachi saadgi ka bata kya bana",
+              "devnagri": "बची सादगी का बता क्या बना"
+            },
+            {
+              "urdu": "مری زندگی تو کٹی سو کٹی",
+              "roman": "Meri zindagi to kati so kati",
+              "devnagri": "मेरी ज़िंदगी तो कटी सो कटी"
+            },
+            {
+              "urdu": "تری زندگی کا بتا کیا بنا",
+              "roman": "Teri zindagi ka bata kya bana",
+              "devnagri": "तेरी ज़िंदगी का बता क्या बना"
+            },
+            {
+              "urdu": "میں ضائع ہوئی کا نہیں پوچھتا",
+              "roman": "Main zaya hui ka nahi poochta",
+              "devnagri": "मैं ज़ाया हुई का नहीं पूछता"
+            },
+            {
+              "urdu": "بچائی ہوئی کا بتا کیا بنا",
+              "roman": "Bachaai hui ka bata kya bana",
+              "devnagri": "बचाई हुई का बता क्या बना"
+            },
+            {
+              "urdu": "لٹا دل، لٹی جاں، یہ مانا مگر",
+              "roman": "Luta dil, luti jaan, ye maana magar",
+              "devnagri": "लुटा दिल, लुटी जान, ये माना मगर"
+            },
+            {
+              "urdu": "کھڑی جھونپڑی کا بتا کیا بنا",
+              "roman": "Khadi jhopdi ka bata kya bana",
+              "devnagri": "खड़ी झोपड़ी का बता क्या बना"
+            },
+            {
+              "urdu": "سنا جو چکا ہے وہ پھر مت سنا",
+              "roman": "Suna jo chuka hai woh phir mat suna",
+              "devnagri": "सुना जो चुका है वो फिर मत सुना"
+            },
+            {
+              "urdu": "کسی دوسری کا بتا کیا بنا",
+              "roman": "Kisi doosri ka bata kya bana",
+              "devnagri": "किसी दूसरी का बता क्या बना"
+            }
           ]
         }
       ]
     },
     {
+      "index": 5,
+      "title": "بے مروت کہا جو تجھے تو بتا",
       "groups": [
         {
           "lines": [
-            "بے مروت کہا جو تجھے تو بتا، اب بھلا میں نے کیا ہی برا کہہ دیا",
-            "میں نے مانا تجھے یہ لگا ہے برا، پر مجھے میری جاں جو لگا کہہ دیا"
-          ]
-        },
-        {
-          "lines": [
-            "تو چلا جب جہاں پہ ترا دل کیا، دل مرا تو رہا بس ترا ہم نوا",
-            "میں تو چلتا رہا تم نے چلتے ہوئے پیچھے مڑ کے مجھے بے وفا کہہ دیا"
-          ]
-        },
-        {
-          "lines": [
-            "میں تو ہوں ناسمجھ سا، مجھے کیا پتا، عشق کو یار بس ہے تو ہی جانتا",
-            "خود کو یہ جب لگا تو کہا عشق ہے، جو مجھے یہ لگا تو نشہ کہہ دیا"
-          ]
-        },
-        {
-          "lines": [
-            "بے قراری رہی بار ہا سوچ کر، میں نہیں سو سکا چین سے رات بھر",
-            "کیا یہ کافی نہیں کل کسی بات پر نام لے کے کسی نے ترا کہہ دیا"
+            {
+              "urdu": "بے مروت کہا جو تجھے تو بتا، اب بھلا میں نے کیا ہی برا کہہ دیا",
+              "roman": "Be murawwat kaha jo tujhe to bata, ab bhala maine kya hi bura keh diya",
+              "devnagri": "बे मरव्वत कहा जो तुझे तो बता, अब भला मैंने क्या ही बुरा कह दिया"
+            },
+            {
+              "urdu": "میں نے مانا تجھے یہ لگا ہے برا، پر مجھے میری جاں جو لگا کہہ دیا",
+              "roman": "Maine maana tujhe yeh laga hai bura, par mujhe meri jaan jo laga keh diya",
+              "devnagri": "मैंने माना तुझे ये लगा है बुरा, पर मुझे मेरी जान जो लगा कह दिया"
+            },
+            {
+              "urdu": "تو چلا جب جہاں پہ ترا دل کیا، دل مرا تو رہا بس ترا ہم نوا",
+              "roman": "Tu chala jab jahan pe tera dil kiya, dil mera to raha bas tera hamnawa",
+              "devnagri": "तु चला जब जहाँ पे तेरा दिल किया, दिल मेरा तो रहा बस तेरा हमनवा"
+            },
+            {
+              "urdu": "میں تو چلتا رہا تم نے چلتے ہوئے پیچھے مڑ کے مجھے بے وفا کہہ دیا",
+              "roman": "Main to chalta raha tum ne chalte hue peeche mud ke mujhe bewafa keh diya",
+              "devnagri": "मैं तो चलता रहा तुम ने चलते हुए पीछे मुड़ के मुझे बेवफ़ा कह दिया"
+            },
+            {
+              "urdu": "میں تو ہوں ناسمجھ سا، مجھے کیا پتا، عشق کو یار بس ہے تو ہی جانتا",
+              "roman": "Main to hoon nasamajh sa, mujhe kya pata, ishq ko yaar bas hai tu hi jaanta",
+              "devnagri": "मैं तो हूँ नासमझ सा, मुझे क्या पता, इश्क़ को यार बस है तू ही जानता"
+            },
+            {
+              "urdu": "خود کو یہ جب لگا تو کہا عشق ہے، جو مجھے یہ لگا تو نشہ کہہ دیا",
+              "roman": "Khud ko yeh jab laga to kaha ishq hai, jo mujhe yeh laga to nasha keh diya",
+              "devnagri": "खुद को ये जब लगा तो कहा इश्क़ है, जो मुझे ये लगा तो नशा कह दिया"
+            }
           ]
         }
       ]
