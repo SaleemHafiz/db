@@ -661,8 +661,6 @@
       ]
     },
     {
-      "index": 5,
-      "title": "بے مروت کہا جو تجھے تو بتا",
       "groups": [
         {
           "lines": [
@@ -699,6 +697,105 @@
           ]
         }
       ]
+    },
+    {
+      "groups": [
+        {
+          "lines": [
+            {
+              "urdu": "صِرف ڈر یہ نہیں ہے کہ مَر جاؤں گا",
+              "roman": "Sirf darr yeh nahi hai ke mar jaoonga",
+              "devnagri": "सिर्फ़ डर ये नहीं है कि मर जाऊँगा"
+            },
+            {
+              "urdu": "میں مَرا تو نَجانے کِدھر جاؤں گا",
+              "roman": "Main mara to na jaane kidhar jaoonga",
+              "devnagri": "मैं मरा तो नजाने किधर जाऊँगा"
+            },
+            {
+              "urdu": "جَب نہیں تھا یہاں تَو جَہاں بھی مَیں تھا",
+              "roman": "Jab nahi tha yahan to jahan bhi main tha",
+              "devnagri": "जब नहीं था यहां तो जहां भी मैं था"
+            },
+            {
+              "urdu": "گَر یہاں سے چَلا تَو اُدھر جاؤں گا",
+              "roman": "Gar yahan se chala to udhar jaoonga",
+              "devnagri": "गर यहां से चला तो उधर जाऊँगा"
+            },
+            {
+              "urdu": "کیا حقیقت مِری ہے بَھلا کیا ہُوں مَیں",
+              "roman": "Kya haqeeqat meri hai bhala kya hoon main",
+              "devnagri": "क्या हक़ीक़त मेरी है भला क्या हुं मैं"
+            },
+            {
+              "urdu": "بَن کے مِٹّی ہَوا میں بِکھر جاؤں گا",
+              "roman": "Ban ke mitti hawa mein bikhar jaoonga",
+              "devnagri": "बन के मिट्टी हवा में बिखर जाऊँगा"
+            },
+            {
+              "urdu": "کون سی منزِلیں کون سے راستے",
+              "roman": "Kaun si manzilen kaun se raaste",
+              "devnagri": "कौनसी मन्ज़िलें कौनसे रास्ते"
+            },
+            {
+              "urdu": "جانے کِس موڑ پہ مَیں اُتر جاؤں گا",
+              "roman": "Jaane kis mod pe main utar jaoonga",
+              "devnagri": "जाने किस मोड़ पे मैं उतर जाऊँगा"
+            },
+            {
+              "urdu": "مَیں ہوں بھکٹا مُسافِر مُجھے کیا پَتا",
+              "roman": "Main hoon bhatakta musafir mujhe kya pata",
+              "devnagri": "मैं हुं भटका मुसाफ़िर मुझे क्या पता"
+            },
+            {
+              "urdu": "مَیں ہوں آیا کہاں سے، کِدھر جاؤں گا",
+              "roman": "Main hoon aaya kahan se, kidhar jaoonga",
+              "devnagri": "मैं हुं आया कहाँ से, किधर जाऊँगा"
+            },
+            {
+              "urdu": "کام جِس سے مِرا دِل رَہا بھاگتا",
+              "roman": "Kaam jis se mera dil raha bhaagta",
+              "devnagri": "काम जिस से मिरा दिल रहा भागता"
+            },
+            {
+              "urdu": "مَرتے مَرتے وہی کام کر جاؤں گا",
+              "roman": "Marte marte wahi kaam kar jaoonga",
+              "devnagri": "मरते मरते वही काम कर जाऊँगा"
+            },
+            {
+              "urdu": "جانے کیسی جگہ ہے وہ ہے بھی کہاں",
+              "roman": "Jaane kaisi jagah hai woh hai bhi kahan",
+              "devnagri": "जाने कैसी जगह है वो है भी कहां"
+            },
+            {
+              "urdu": "کچھ پتا ہی نہیں ہے مگر جاؤنگا",
+              "roman": "Kuch pata hi nahi hai magar jaoonga",
+              "devnagri": "कुछ पता ही नहीं है मगर जाऊंगा"
+            },
+            {
+              "urdu": "ہے جہاں جو بھی ہے سوچ کے کیا کروں",
+              "roman": "Hai jahan jo bhi hai soch ke kya karoon",
+              "devnagri": "है जहां जो भी है सोच के क्या करूं"
+            },
+            {
+              "urdu": "جاؤنگا میں مگر وقت پر جاؤنگا",
+              "roman": "Jaoonga main magar waqt par jaoonga",
+              "devnagri": "जाऊंगा मैं मगर वक़्त पर जाऊंगा"
+            },
+            {
+              "urdu": "مَیں بَقا کے لِیے تَو لَڑا ہی نہیں",
+              "roman": "Main baqa ke liye to lada hi nahi",
+              "devnagri": "मैं बक़ा केलिए तो लड़ा ही नहीं"
+            },
+            {
+              "urdu": "مَیں مِٹا تَو یُوں سَمجھو سنْوَر جاؤں گا",
+              "roman": "Main mita to yun samjho sanwar jaoonga",
+              "devnagri": "मैं मिटा तो युं समझो संवर जाऊँगा"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
+
