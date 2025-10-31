@@ -1,10 +1,19 @@
 {
-  "bookName": "Pehli Kitaab",
-  "bookNameUrdu": "پہلی کتاب",
-  "writerName": "Saleem Ullah",
-  "writerNameUrdu": "سلیم الله",
+  "bookName": {
+    "roman": "Pehli Kitaab",
+    "urdu": "پہلی کتاب",
+    "devnagri": "पहली किताब"
+  },
+  "writerName": {
+    "roman": "Saleem Ullah",
+    "urdu": "سلیم الله",
+    "devnagri": "सलीमुल्लाह"
+  },
   "ghazals": [
     {
+      "id": 1,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/sWWYZkh5sz0?si=fvVDNwO1nRm_T9wa",
       "groups": [
         {
           "lines": [
@@ -149,6 +158,9 @@
       ]
     },
     {
+      "id": 2,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/Fe3crYzpbYU?si=KJHGSblCWx3YTP8o",
       "groups": [
         {
           "lines": [
@@ -265,6 +277,9 @@
       ]
     },
     {
+      "id": 3,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/lzF7_gJNqkI?si=Y-WOwI4_1Gr8QrhR",
       "groups": [
         {
           "lines": [
@@ -381,6 +396,9 @@
       ]
     },
     {
+      "id": 4,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/Eg8aX3Qbq8o?si=P10f8nSxM3tumCJy",
       "groups": [
         {
           "lines": [
@@ -583,6 +601,9 @@
       ]
     },
     {
+      "id": 5,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/k1-RisZH3TY?si=lv8pUiFVwSjCA-qg",
       "groups": [
         {
           "lines": [
@@ -661,6 +682,9 @@
       ]
     },
     {
+      "id": 6,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/Yvht29qf8cA?si=3Ns7qtJxp8eprgio",
       "groups": [
         {
           "lines": [
@@ -699,6 +723,9 @@
       ]
     },
     {
+      "id": 7,
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/357VFOuZ7Xk?si=SPZUQALimQvf5bjz",
       "groups": [
         {
           "lines": [
@@ -798,4 +825,3 @@
     }
   ]
 }
-
