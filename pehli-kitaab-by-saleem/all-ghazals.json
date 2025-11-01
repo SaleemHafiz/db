@@ -12,6 +12,7 @@
   "ghazals": [
     {
       "id": 1,
+      "isFeatured": "false",
       "coverImage": "",
       "youtubeLink": "https://youtu.be/sWWYZkh5sz0?si=fvVDNwO1nRm_T9wa",
       "groups": [
@@ -159,6 +160,7 @@
     },
     {
       "id": 2,
+      "isFeatured": "false",
       "coverImage": "",
       "youtubeLink": "https://youtu.be/Fe3crYzpbYU?si=KJHGSblCWx3YTP8o",
       "groups": [
@@ -278,6 +280,7 @@
     },
     {
       "id": 3,
+      "isFeatured": "false",
       "coverImage": "",
       "youtubeLink": "https://youtu.be/lzF7_gJNqkI?si=Y-WOwI4_1Gr8QrhR",
       "groups": [
@@ -397,6 +400,7 @@
     },
     {
       "id": 4,
+      "isFeatured": "false",
       "coverImage": "",
       "youtubeLink": "https://youtu.be/Eg8aX3Qbq8o?si=P10f8nSxM3tumCJy",
       "groups": [
@@ -601,6 +605,7 @@
       ]
     },
     {
+      "isFeatured": "true",
       "id": 5,
       "coverImage": "",
       "youtubeLink": "https://youtu.be/k1-RisZH3TY?si=lv8pUiFVwSjCA-qg",
@@ -683,6 +688,7 @@
     },
     {
       "id": 6,
+      "isFeatured": "false",
       "coverImage": "",
       "youtubeLink": "https://youtu.be/Yvht29qf8cA?si=3Ns7qtJxp8eprgio",
       "groups": [
@@ -724,6 +730,7 @@
     },
     {
       "id": 7,
+      "isFeatured": "false",
       "coverImage": "",
       "youtubeLink": "https://youtu.be/357VFOuZ7Xk?si=SPZUQALimQvf5bjz",
       "groups": [
