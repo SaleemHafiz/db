@@ -889,6 +889,140 @@
           ]
         }
       ]
+    },
+    {
+      "id": 8,
+      "isFeatured": "false",
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/357VFOuZ7Xk?si=SPZUQALimQvf5bjz",
+      "groups": [
+        {
+          "lines": [
+            {
+              "urdu": "صرف ڈر یہ نہیں ہے کہ مر جاؤں گا",
+              "roman": "sirf darr yeh nahi hai ke mar jaoonga",
+              "hindi": "सिर्फ डर ये नहीं है कि मर जाऊँगा"
+            },
+            {
+              "urdu": "میں مرا تو نجانے کدھر جاؤں گا",
+              "roman": "main mara to na jaane kidhar jaoonga",
+              "hindi": "मैं मरा तो नजाने किधर जाऊँगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "جب نہیں تھا یہاں تو جہاں بھی میں تھا",
+              "roman": "jab nahi tha yahan to jahan bhi main tha",
+              "hindi": "जब नहीं था यहां तो जहां भी मैं था"
+            },
+            {
+              "urdu": "گر یہاں سے چلا تو ادھر جاؤں گا",
+              "roman": "gar yahan se chala to udhar jaoonga",
+              "hindi": "गर यहां से चला तो उधर जाऊँगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "کیا حقیقت مری ہے بھلا کیا ہوں میں",
+              "roman": "kya haqeeqat meri hai bhala kya hoon main",
+              "hindi": "क्या हक़ीकत मेरी है भला क्या हुं मैं"
+            },
+            {
+              "urdu": "بن کے مٹی ہوا میں بکھر جاؤں گا",
+              "roman": "ban ke mitti hawa mein bikhar jaoonga",
+              "hindi": "बन के मिट्टी हवा में बिखर जाऊँगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "کون سی منزلیں کون سے راستے",
+              "roman": "kaun si manzilen kaun se raaste",
+              "hindi": "कौनसी मन्ज़िलें कौनसे रास्ते"
+            },
+            {
+              "urdu": "جانے کس موڑ پہ میں اتر جاؤں گا",
+              "roman": "jaane kis mod pe main utar jaoonga",
+              "hindi": "जाने किस मोड़ पे मैं उतर जाऊँगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "میں ہوں بھٹکا مسافر مجھے کیا پتا",
+              "roman": "main hoon bhatka musafir mujhe kya pata",
+              "hindi": "मैं हुं भटका मुसाफ़िर मुझे क्या पता"
+            },
+            {
+              "urdu": "میں ہوں آیا کہاں سے کدھر جاؤں گا",
+              "roman": "main hoon aaya kahan se, kidhar jaoonga",
+              "hindi": "मैं हुं आया कहाँ से, किधर जाऊँगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "کام جس سے مرا دل رہا بھاگتا",
+              "roman": "kaam jis se mera dil raha bhaagta",
+              "hindi": "काम जिस से मिरा दिल रहा भागता"
+            },
+            {
+              "urdu": "مرتے مرتے وہی کام کر جاؤں گا",
+              "roman": "marte marte wahi kaam kar jaoonga",
+              "hindi": "मरते मरते वही काम कर जाऊँगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "جانے کیسی جگہ ہے وہ ہے بھی کہاں",
+              "roman": "jaane kaisi jagah hai woh hai bhi kahan",
+              "hindi": "जाने कैसी जगह है वो है भी कहां"
+            },
+            {
+              "urdu": "کچھ پتا ہی نہیں ہے مگر جاؤں گا",
+              "roman": "kuch pata hi nahi hai magar jaoonga",
+              "hindi": "कुछ पता ही नहीं है मगर जाऊंगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "ہے جہاں جو بھی ہے سوچ کے کیا کروں",
+              "roman": "hai jahan jo bhi hai soch ke kya karoon",
+              "hindi": "है जहां जो भी है सोच के क्या करूं"
+            },
+            {
+              "urdu": "جاؤں گا میں مگر وقت پر جاؤں گا",
+              "roman": "jaoonga main magar waqt par jaoonga",
+              "hindi": "जाऊंगा मैं मगर वक़्त पर जाऊंगा"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "میں بقا کے لیے تو لڑا ہی نہیں",
+              "roman": "main baqa ke liye to lada hi nahi",
+              "hindi": "मैं बक़ा केलिए तो लड़ा ही नहीं"
+            },
+            {
+              "urdu": "میں مٹا تو یوں سمجھو سنور جاؤں گا",
+              "roman": "main mita to yun samjho sanwar jaoonga",
+              "hindi": "मैं मिटा तो युं समझो संवर जाऊँगा"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
