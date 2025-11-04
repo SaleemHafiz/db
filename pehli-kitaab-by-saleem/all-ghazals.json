@@ -724,33 +724,55 @@
           "lines": [
             {
               "urdu": "بے مروت کہا جو تجھے تو بتا، اب بھلا میں نے کیا ہی برا کہہ دیا",
-              "roman": "Be murawwat kaha jo tujhe to bata, ab bhala maine kya hi bura keh diya",
+              "roman": "be murawwat kaha jo tujhe to bata, ab bhala maine kya hi bura keh diya",
               "hindi": "बे मरव्वत कहा जो तुझे तो बता, अब भला मैंने क्या ही बुरा कह दिया"
             },
             {
               "urdu": "میں نے مانا تجھے یہ لگا ہے برا، پر مجھے میری جاں جو لگا کہہ دیا",
-              "roman": "Maine maana tujhe yeh laga hai bura, par mujhe meri jaan jo laga keh diya",
+              "roman": "maine maana tujhe yeh laga hai bura, par mujhe meri jaan jo laga keh diya",
               "hindi": "मैंने माना तुझे ये लगा है बुरा, पर मुझे मेरी जान जो लगा कह दिया"
-            },
+            }
+          ]
+        },
+        {
+          "lines": [
             {
               "urdu": "تو چلا جب جہاں پہ ترا دل کیا، دل مرا تو رہا بس ترا ہم نوا",
-              "roman": "Tu chala jab jahan pe tera dil kiya, dil mera to raha bas tera hamnawa",
+              "roman": "tu chala jab jahan pe tera dil kiya, dil mera to raha bas tera hamnawa",
               "hindi": "तु चला जब जहाँ पे तेरा दिल किया, दिल मेरा तो रहा बस तेरा हमनवा"
             },
             {
               "urdu": "میں تو چلتا رہا تم نے چلتے ہوئے پیچھے مڑ کے مجھے بے وفا کہہ دیا",
-              "roman": "Main to chalta raha tum ne chalte hue peeche mud ke mujhe bewafa keh diya",
+              "roman": "main to chalta raha tum ne chalte hue peeche mud ke mujhe bewafa keh diya",
               "hindi": "मैं तो चलता रहा तुम ने चलते हुए पीछे मुड़ के मुझे बेवफ़ा कह दिया"
-            },
+            }
+          ]
+        },
+        {
+          "lines": [
             {
               "urdu": "میں تو ہوں ناسمجھ سا، مجھے کیا پتا، عشق کو یار بس ہے تو ہی جانتا",
-              "roman": "Main to hoon nasamajh sa, mujhe kya pata, ishq ko yaar bas hai tu hi jaanta",
+              "roman": "main to hoon nasamajh sa, mujhe kya pata, ishq ko yaar bas hai tu hi jaanta",
               "hindi": "मैं तो हूँ नासमझ सा, मुझे क्या पता, इश्क़ को यार बस है तू ही जानता"
             },
             {
               "urdu": "خود کو یہ جب لگا تو کہا عشق ہے، جو مجھے یہ لگا تو نشہ کہہ دیا",
-              "roman": "Khud ko yeh jab laga to kaha ishq hai, jo mujhe yeh laga to nasha keh diya",
+              "roman": "khud ko yeh jab laga to kaha ishq hai, jo mujhe yeh laga to nasha keh diya",
               "hindi": "खुद को ये जब लगा तो कहा इश्क़ है, जो मुझे ये लगा तो नशा कह दिया"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "بیقراری رہی بارہا سوچ کر میں نہیں سو سکا چین سے رات بھر",
+              "roman": "beqarari rahi barha soch kar, main nahi so saka chain se raat bhar",
+              "hindi": "बेकरारी रही बारहा सोच कर, मैं नहीं सो सका चैन से रात भर"
+            },
+            {
+              "urdu": "کیا یہ کافی نہیں کل کسی بات پر نام لے کے کسی نے ترا کہہ دیا",
+              "roman": "kya yeh kafi nahi kal kisi baat par, naam le ke kisi ne tera keh diya",
+              "hindi": "क्या ये काफ़ी नहीं कल किसी बात पर, नाम ले के किसी ने तेरा कह दिया"
             }
           ]
         }
