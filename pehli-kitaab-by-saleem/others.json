@@ -7,18 +7,11 @@
       "about": "A writer and poet with a focus on social realism.",
       "books": [
         {
-          "id": "mazaameen",
-          "title": "Mazaameen",
+          "id": "sochna-padega",
+          "title": "Sochna Padega",
           "about": "A collection of thoughtful essays.",
           "date": "2024-08-01",
-          "coverImage": "https://example.com/mazaameen-cover.jpg"
-        },
-        {
-          "id": "kavitaon-ka-safar",
-          "title": "Kavitaon Ka Safar",
-          "about": "Selected poems and reflections.",
-          "date": "2025-01-01",
-          "coverImage": "https://example.com/kavitaon.jpg"
+          "coverImage": "https://images.pexels.com/photos/6830373/pexels-photo-6830373.jpeg"
         }
       ]
     },
