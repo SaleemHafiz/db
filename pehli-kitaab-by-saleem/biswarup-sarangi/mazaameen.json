@@ -1,1 +1,23 @@
 
+{
+  "bookId": "mazaameen",
+  "title": "Mazaameen",
+  "authorId": "biswarup-sarangi",
+  "authorName": "Biswarup Sarangi",
+  "about": "A collection of essays and reflections on life and literature.",
+  "date": "2024-08-01",
+  "items": [
+    {
+      "id": "essay-1",
+      "title": "Zindagi aur Khayalat",
+      "type": "essay",
+      "text": "Zindagi ek safar hai jo khayalat ke zariye apni manzil tak pahunchti hai..."
+    },
+    {
+      "id": "essay-2",
+      "title": "Ishq aur Fikr",
+      "type": "essay",
+      "text": "Har soch ka aakhri manzil ishq hai..."
+    }
+  ]
+}
