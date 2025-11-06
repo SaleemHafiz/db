@@ -1,1 +1,131 @@
-
+{
+  "bookId": "sochna-padega",
+  "title": {
+    "hindi": "सोचना पड़ेगा",
+    "roman": "Sochna Padega",
+    "urdu": "سوچنا پڑے گا"
+  },
+  "authorId": "biswarup-sarangi",
+  "authorName": {
+    "hindi": "बिस्वरूप सारंगी",
+    "roman": "Biswarup Sarangi",
+    "urdu": "بسورپ سارنگی"
+  },
+  "about": {
+    "hindi": "जीवन और साहित्य पर निबंधों और विचारों का संग्रह।",
+    "roman": "A collection of essays and reflections on life and literature.",
+    "urdu": "زندگی اور ادب پر مضامین اور خیالات کا مجموعہ۔"
+  },
+  "date": {
+    "hindi": "१ अगस्त २०२४",
+    "roman": "1 August 2024",
+    "urdu": "۱ اگست ۲۰۲۴"
+  },
+  "items": [
+    {
+      "title": {
+        "hindi": "दहलीज़",
+        "roman": "Dahleez",
+        "urdu": "دہلیز"
+      },
+      "form": {
+        "hindi": "गद्य",
+        "roman": "prose",
+        "urdu": "نثر"
+      },
+      "groups": [
+        [
+          {
+            "hindi": "आज दिवाली वाले",
+            "roman": "Aaj Diwali waale",
+            "urdu": "آج دوالی والے"
+          },
+          {
+            "hindi": "छोटी छोटी चमकती लाइटें",
+            "roman": "chhoti chhoti chamakti lighten",
+            "urdu": "چھوٹی چھوٹی چمکتی لائٹیں"
+          },
+          {
+            "hindi": "बाल्कनी के दहलीज पर",
+            "roman": "balcony ke dahleez par",
+            "urdu": "بالکنی کے دہلیز پر"
+          },
+          {
+            "hindi": "सेलो टेप से लगाते वक्त",
+            "roman": "cello tape se lagate waqt",
+            "urdu": "سیلو ٹیپ سے لگاتے وقت"
+          },
+          {
+            "hindi": "पिछले साल की लगाई हुई",
+            "roman": "pichhle saal ki lagai hui",
+            "urdu": "پچھلے سال کی لگائی ہوئی"
+          },
+          {
+            "hindi": "एक छोटी सी सेलो टेप",
+            "roman": "ek chhoti si cello tape",
+            "urdu": "ایک چھوٹی سی سیلو ٹیپ"
+          },
+          {
+            "hindi": "मेरे उंगलियों में आ गई",
+            "roman": "mere ungliyon mein aa gayi",
+            "urdu": "میرے انگلیوں میں آ گئی"
+          }
+        ],
+        [
+          {
+            "hindi": "हाथ में पुराना टेप का टुकड़ा देख कर",
+            "roman": "Haath mein purana tape ka tukda dekh kar",
+            "urdu": "ہاتھ میں پرانا ٹیپ کا ٹکڑا دیکھ کر"
+          },
+          {
+            "hindi": "मुझे बेहद आश्चर्य हुआ",
+            "roman": "mujhe behed aashcharya hua",
+            "urdu": "مجھے بیحد آشچریہ ہوا"
+          },
+          {
+            "hindi": "क्योंकि इस बार की लगाई हुई टेप पर ही",
+            "roman": "kyunki is baar ki lagai hui tape par hi",
+            "urdu": "کیونکہ اس بار کی لگائی ہوئی ٹیپ پر ہی"
+          },
+          {
+            "hindi": "मुझे काफी संदेह था",
+            "roman": "mujhe kaafi sandeh tha",
+            "urdu": "مجھے کافی سندیہ تھا"
+          },
+          {
+            "hindi": "कि कहीं से अगर अचानक बारिश आ जाए",
+            "roman": "ki kahin se agar achanak baarish aa jaaye",
+            "urdu": "کہ کہیں سے اگر اچانک بارش آ جائے"
+          },
+          {
+            "hindi": "तो ये टेप दम न तोड़ दे",
+            "roman": "to ye tape dam na tod de",
+            "urdu": "تو یہ ٹیپ دم نہ توڑ دے"
+          }
+        ],
+        [
+          {
+            "hindi": "बारिश में अगर कहीं टेप दम तोड़ दे",
+            "roman": "Baarish mein agar kahin tape dam tod de",
+            "urdu": "بارش میں اگر کہیں ٹیپ دم توڑ دے"
+          },
+          {
+            "hindi": "तो लाइटें आठवीं मंजिल से नीचे गिर कर",
+            "roman": "to lighten aathvin manzil se neeche gir kar",
+            "urdu": "تو لائٹیں آٹھویں منزل سے نیچے گر کر"
+          },
+          {
+            "hindi": "किसी अपशगुन की तरह",
+            "roman": "kisi apashagun ki tarah",
+            "urdu": "کسی اپشگن کی طرح"
+          },
+          {
+            "hindi": "जमीन पर टूट बिखर सकती थीं",
+            "roman": "zameen par toot bikhar sakti thin",
+            "urdu": "زمین پر ٹوٹ بکھر سکتی تھیں"
+          }
+        ]
+      ]
+    }
+  ]
+}
