@@ -1,1 +1,40 @@
 
+{
+  "authors": [
+    {
+      "id": "biswarup-sarangi",
+      "name": "Biswarup Sarangi",
+      "about": "A writer and poet with a focus on social realism.",
+      "books": [
+        {
+          "id": "mazaameen",
+          "title": "Mazaameen",
+          "about": "A collection of thoughtful essays.",
+          "date": "2024-08-01",
+          "coverImage": "https://example.com/mazaameen-cover.jpg"
+        },
+        {
+          "id": "kavitaon-ka-safar",
+          "title": "Kavitaon Ka Safar",
+          "about": "Selected poems and reflections.",
+          "date": "2025-01-01",
+          "coverImage": "https://example.com/kavitaon.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rehman-ali",
+      "name": "Rehman Ali",
+      "about": "Modern poet and essayist.",
+      "books": [
+        {
+          "id": "jazbaat",
+          "title": "Jazbaat",
+          "about": "A poetry collection exploring emotion.",
+          "date": "2023-05-05",
+          "coverImage": "https://example.com/jazbaat.jpg"
+        }
+      ]
+    }
+  ]
+}
