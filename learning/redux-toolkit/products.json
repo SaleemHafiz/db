@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "title": "Red Apple",
+      "price": 50
+    },
+    {
+      "id": 102,
+      "title": "Banana",
+      "price": 30
+    },
+    {
+      "id": 103,
+      "title": "Orange Juice",
+      "price": 120
+    },
+    {
+      "id": 104,
+      "title": "Chocolate Cookies",
+      "price": 200
+    },
+    {
+      "id": 105,
+      "title": "Blue T-Shirt",
+      "price": 999
+    }
+  ]
+}
