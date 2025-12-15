@@ -1,0 +1,199 @@
+{
+  "section": {
+    "description": "A flexible container block. Can have a heading, children blocks, and a layout direction (row or column).",
+    "payload": {
+      "heading": "string - optional section heading",
+      "direction": "string - 'row' or 'column', default 'column'",
+      "collapsed": "boolean - optional, default false",
+      "children": "array of blocks - nested content inside this section"
+    },
+    "example": {
+      "heading": "Salah",
+      "direction": "column",
+      "collapsed": false,
+      "children": [
+        {
+          "id": "paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "Salah is the " },
+              { "type": "bold", "text": "obligatory prayer" },
+              { "type": "text", "text": " performed five times daily." },
+              { "type": "link", "text": "Learn more", "href": "https://example.com/salah" }
+            ]
+          }
+        },
+        {
+          "id": "section",
+          "payload": {
+            "direction": "row",
+            "children": [
+              {
+                "id": "image",
+                "payload": { "src": "images/masjid1.jpg", "alt": "Mosque 1" }
+              },
+              {
+                "id": "image",
+                "payload": { "src": "images/masjid2.jpg", "alt": "Mosque 2" }
+              }
+            ]
+          }
+        },
+        {
+          "id": "section",
+          "payload": {
+            "heading": "Importance of Salah",
+            "direction": "column",
+            "children": [
+              {
+                "id": "paragraph",
+                "payload": {
+                  "inlines": [
+                    { "type": "text", "text": "Salah strengthens the connection with Allah." }
+                  ]
+                }
+              },
+              {
+                "id": "hadith",
+                "payload": {
+                  "arabic": "بني الإسلام على خمس",
+                  "translation": "Islam is built upon five pillars.",
+                  "source": "Bukhari, Muslim",
+                  "grade": "Sahih"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "paragraph": {
+    "description": "A text block supporting rich inline content.",
+    "payload": {
+      "inlines": [
+        {
+          "type": "text",
+          "text": "string - plain text"
+        }
+      ]
+    },
+    "example": {
+      "inlines": [
+        { "type": "text", "text": "Salah is the " },
+        { "type": "bold", "text": "obligatory prayer" },
+        { "type": "text", "text": " performed five times daily." },
+        { "type": "link", "text": "Learn more", "href": "https://example.com/salah" },
+        { "type": "tooltip", "text": "fard", "tooltip": "Mandatory act in prayer" }
+      ]
+    }
+  },
+  "quote": {
+    "description": "A block containing a quote from a scholar or text.",
+    "payload": {
+      "text": "string - quote content",
+      "source": "string - author or reference"
+    },
+    "example": {
+      "text": "Actions are judged by intentions.",
+      "source": "Prophet Muhammad ﷺ"
+    }
+  },
+  "hadith": {
+    "description": "A Hadith block with Arabic and translation.",
+    "payload": {
+      "arabic": "string - Arabic text",
+      "translation": "string - translation in English/Urdu",
+      "source": "string - hadith book/reference",
+      "grade": "string - Sahih/Daif/etc"
+    },
+    "example": {
+      "arabic": "بني الإسلام على خمس",
+      "translation": "Islam is built upon five pillars.",
+      "source": "Bukhari, Muslim",
+      "grade": "Sahih"
+    }
+  },
+  "ayah": {
+    "description": "A Quran verse block.",
+    "payload": {
+      "surah": "number or string - Surah number or name",
+      "ayah": "number - verse number",
+      "arabic": "string - Arabic text",
+      "translation": "string - translation in English/Urdu"
+    },
+    "example": {
+      "surah": 2,
+      "ayah": 43,
+      "arabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+      "translation": "Establish prayer and give zakah."
+    }
+  },
+  "list": {
+    "description": "An ordered or unordered list block.",
+    "payload": {
+      "items": "array of strings",
+      "ordered": "boolean - true for numbered list, false for bullet list"
+    },
+    "example": {
+      "items": ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha"],
+      "ordered": true
+    }
+  },
+  "note": {
+    "description": "A note block for highlighting extra information.",
+    "payload": {
+      "text": "string"
+    },
+    "example": {
+      "text": "This is an important note for students."
+    }
+  },
+  "warning": {
+    "description": "A warning block to draw attention.",
+    "payload": {
+      "text": "string"
+    },
+    "example": {
+      "text": "Do not skip obligatory prayers."
+    }
+  },
+  "divider": {
+    "description": "A visual divider to separate sections.",
+    "payload": {},
+    "example": {}
+  },
+  "image": {
+    "description": "An image block.",
+    "payload": {
+      "src": "string - image URL or local path",
+      "alt": "string - alternative text for accessibility"
+    },
+    "example": {
+      "src": "images/masjid.jpg",
+      "alt": "A beautiful mosque"
+    }
+  },
+  "audio": {
+    "description": "An audio block.",
+    "payload": {
+      "src": "string - audio file URL or path",
+      "title": "string - optional title"
+    },
+    "example": {
+      "src": "audio/azan.mp3",
+      "title": "Fajr Azan"
+    }
+  },
+  "footnote": {
+    "description": "A footnote block for references or additional info.",
+    "payload": {
+      "text": "string",
+      "reference": "string - source or page number"
+    },
+    "example": {
+      "text": "Some additional info.",
+      "reference": "Bukhari 528"
+    }
+  }
+}
