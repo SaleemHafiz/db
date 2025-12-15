@@ -1,0 +1,70 @@
+{
+  "languages": ["en", "ur"],
+  "levels": ["beginner", "medium", "advanced"],
+  "subjects": [
+    "Fiqh",
+    "Seerah",
+    "Aqeedah",
+    "Hadith",
+    "Quran",
+    "Tafsir",
+    "Islamic History",
+    "Dua & Adhkar"
+  ],
+  "articles": [
+    {
+      "id": "salah",
+      "title": {
+        "en": "Salah",
+        "ur": "نماز"
+      },
+      "level": ["beginner", "medium", "advanced"],
+      "subjects": ["Fiqh"],
+      "path": {
+        "en": "articles/salah/en.json",
+        "ur": "articles/salah/ur.json"
+      },
+      "description": {
+        "en": "Learn about the obligatory prayer in Islam.",
+        "ur": "اسلام میں فرض نماز کے بارے میں سیکھیں۔"
+      },
+      "tags": ["prayer", "obligatory", "ibadah"]
+    },
+    {
+      "id": "zakat",
+      "title": {
+        "en": "Zakat",
+        "ur": "زکوة"
+      },
+      "level": ["beginner", "medium", "advanced"],
+      "subjects": ["Fiqh"],
+      "path": {
+        "en": "articles/zakat/en.json",
+        "ur": "articles/zakat/ur.json"
+      },
+      "description": {
+        "en": "Guidelines on giving Zakat in Islam.",
+        "ur": "اسلام میں زکوة دینے کے اصول۔"
+      },
+      "tags": ["charity", "finance", "ibadah"]
+    },
+    {
+      "id": "seerah",
+      "title": {
+        "en": "Seerah of the Prophet ﷺ",
+        "ur": "سیرتِ رسول ﷺ"
+      },
+      "level": ["beginner", "medium", "advanced"],
+      "subjects": ["Seerah", "Islamic History"],
+      "path": {
+        "en": "articles/seerah/en.json",
+        "ur": "articles/seerah/ur.json"
+      },
+      "description": {
+        "en": "The life story of Prophet Muhammad ﷺ.",
+        "ur": "حضرت محمد ﷺ کی زندگی کا احوال۔"
+      },
+      "tags": ["prophet", "biography", "history"]
+    }
+  ]
+}
