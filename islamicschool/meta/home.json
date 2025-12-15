@@ -1,0 +1,93 @@
+{
+  "title": {
+    "en": "Welcome to Islamic School",
+    "ur": "اسلامک اسکول میں خوش آمدید"
+  },
+  "hero": {
+    "heading": {
+      "en": "Learn Islam with Ease",
+      "ur": "اسلام سیکھیں آسانی سے"
+    },
+    "subheading": {
+      "en": "Explore articles, lessons, and resources",
+      "ur": "مقالات، سبق، اور وسائل دریافت کریں"
+    },
+    "image": "images/home-hero.jpg"
+  },
+  "sections": [
+    {
+      "id": "section",
+      "payload": {
+        "heading": "Featured Articles",
+        "direction": "row",
+        "children": [
+          {
+            "id": "section",
+            "payload": {
+              "heading": "Salah",
+              "direction": "column",
+              "children": [
+                {
+                  "id": "paragraph",
+                  "payload": {
+                    "inlines": [
+                      { "type": "text", "text": "Learn about the obligatory prayer in Islam." }
+                    ]
+                  }
+                },
+                {
+                  "id": "image",
+                  "payload": {
+                    "src": "images/salah.jpg",
+                    "alt": "Salah"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "section",
+            "payload": {
+              "heading": "Zakat",
+              "direction": "column",
+              "children": [
+                {
+                  "id": "paragraph",
+                  "payload": {
+                    "inlines": [
+                      { "type": "text", "text": "Guidelines on giving Zakat in Islam." }
+                    ]
+                  }
+                },
+                {
+                  "id": "image",
+                  "payload": {
+                    "src": "images/zakat.jpg",
+                    "alt": "Zakat"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "section",
+      "payload": {
+        "heading": "Latest Lessons",
+        "direction": "column",
+        "children": [
+          {
+            "id": "paragraph",
+            "payload": {
+              "inlines": [
+                { "type": "text", "text": "Check out the newest lessons added for students of all levels." }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
