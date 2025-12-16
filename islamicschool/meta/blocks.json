@@ -7,6 +7,18 @@
       "collapsed": false,
       "children": [
         {
+  "type": "paragraph",
+  "payload": {
+    "inlines": [
+      { "type": "text", "text": "This is a paragraph with an image and a note." }
+    ],
+    "children": [
+      { "type": "image", "payload": { "src": "/example.jpg", "alt": "Example" } },
+      { "type": "note", "payload": { "text": "This is an important note." } }
+    ]
+  }
+},
+        {
           "id": "paragraph",
           "payload": {
             "inlines": [
@@ -115,3 +127,4 @@
     }
   }
 ]
+
