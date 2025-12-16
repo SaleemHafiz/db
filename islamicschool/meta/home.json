@@ -1,109 +1,164 @@
 [
   {
-    "type": "section",
+    "type": "Section",
     "payload": {
-      "heading": "Welcome to Islamic Studies",
+      "heading": "Introduction to Islamic Studies",
       "children": [
         {
-          "type": "paragraph",
+          "type": "Paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "This book will guide students through " },
-              { "type": "bold", "text": "important concepts" },
-              { "type": "text", "text": " in Islamic history and teachings." }
+              { "type": "text", "text": "Welcome to the " },
+              { "type": "bold", "text": "Islamic Studies" },
+              { "type": "text", "text": " course. In this book, you will explore basic concepts, learn about important figures, and understand ethical teachings." }
             ]
           }
         },
         {
-          "type": "note",
+          "type": "Image",
           "payload": {
-            "text": "Remember: Always refer to authentic sources when studying."
+            "src": "/images/islamic_classroom.jpg",
+            "alt": "Students learning in classroom"
           }
         }
       ]
     }
   },
   {
-    "type": "section",
+    "type": "Divider"
+  },
+  {
+    "type": "Section",
     "payload": {
-      "heading": "Core Principles",
+      "heading": "Important Hadiths",
       "children": [
         {
-          "type": "list",
+          "type": "Hadith",
           "payload": {
-            "ordered": true,
+            "arabic": "عن النبي ﷺ قال: من كان يؤمن بالله واليوم الآخر فليقل خيراً أو ليصمت",
+            "translation": "The Prophet ﷺ said: Whoever believes in Allah and the Last Day should speak good or remain silent.",
+            "source": "Sahih Muslim",
+            "grade": "Authentic"
+          }
+        },
+        {
+          "type": "Note",
+          "payload": {
+            "text": "Remember: Always speak kindly and avoid hurtful words."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "Divider"
+  },
+  {
+    "type": "Section",
+    "payload": {
+      "heading": "Key Ethical Principles",
+      "children": [
+        {
+          "type": "List",
+          "payload": {
+            "ordered": false,
             "items": [
-              "Belief in One God",
-              "Respect for the Prophet ﷺ",
-              "Honesty and Integrity",
-              "Helping Others"
+              "Honesty in speech and actions",
+              "Helping the needy",
+              "Respecting teachers and elders",
+              "Maintaining cleanliness"
             ]
           }
         },
         {
-          "type": "paragraph",
+          "type": "Quote",
           "payload": {
-            "inlines": [
-              { "type": "text", "text": "These principles form the foundation of good character and behavior." }
-            ]
+            "text": "The best among you are those who have the best manners and character.",
+            "source": "Prophet Muhammad ﷺ"
           }
         }
       ]
     }
   },
   {
-    "type": "image",
+    "type": "Divider"
+  },
+  {
+    "type": "Section",
     "payload": {
-      "src": "/images/mosque.jpg",
-      "alt": "Mosque"
+      "heading": "Quranic Ayahs for Daily Life",
+      "children": [
+        {
+          "type": "Ayah",
+          "payload": {
+            "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+            "translation": "And speak to people good [words].",
+            "surah": "Al-Baqarah",
+            "ayah": 83
+          }
+        },
+        {
+          "type": "Footnote",
+          "payload": {
+            "text": "This Ayah emphasizes the importance of speaking kindly to everyone.",
+            "reference": "Tafsir Ibn Kathir"
+          }
+        }
+      ]
     }
   },
   {
-    "type": "divider"
+    "type": "Divider"
   },
   {
-    "type": "hadith",
+    "type": "Section",
     "payload": {
-      "arabic": "إنما الأعمال بالنيات",
-      "translation": "Actions are judged by intentions.",
-      "source": "Bukhari",
-      "grade": "Sahih"
+      "heading": "Interactive Section: Listening & Learning",
+      "children": [
+        {
+          "type": "Audio",
+          "payload": {
+            "title": "Recitation of Surah Al-Fatiha",
+            "src": "/audio/al_fatiha.mp3"
+          }
+        },
+        {
+          "type": "Warning",
+          "payload": {
+            "text": "Make sure to listen carefully and repeat after the recitation for better memorization."
+          }
+        }
+      ]
     }
   },
   {
-    "type": "quote",
-    "payload": {
-      "text": "Knowledge enlivens the soul.",
-      "source": "Prophet Muhammad ﷺ"
-    }
+    "type": "Divider"
   },
   {
-    "type": "ayah",
+    "type": "Section",
     "payload": {
-      "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
-      "translation": "And speak kindly to people.",
-      "surah": "Al-Baqarah",
-      "ayah": 83
-    }
-  },
-  {
-    "type": "warning",
-    "payload": {
-      "text": "Avoid copying content; always write in your own words."
-    }
-  },
-  {
-    "type": "audio",
-    "payload": {
-      "title": "Recitation of Surah Al-Fatihah",
-      "src": "/audio/alfatihah.mp3"
-    }
-  },
-  {
-    "type": "footnote",
-    "payload": {
-      "text": "This content is intended for educational purposes.",
-      "reference": "Page 1"
+      "heading": "Summary & Tips",
+      "children": [
+        {
+          "type": "Paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "Always combine " },
+              { "type": "highlight", "text": "knowledge" },
+              { "type": "text", "text": " with " },
+              { "type": "highlight", "text": "good character" },
+              { "type": "text", "text": ". Keep practicing and revising regularly." }
+            ]
+          }
+        },
+        {
+          "type": "Image",
+          "payload": {
+            "src": "/images/students_reading.jpg",
+            "alt": "Students reading book"
+          }
+        }
+      ]
     }
   }
 ]
