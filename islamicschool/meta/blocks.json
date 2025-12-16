@@ -13,7 +13,7 @@
               { "type": "text", "text": "This is a paragraph with an image and a note." }
             ],
             "children": [
-              { "type": "image", "payload": { "src": "/images/example.jpg", "alt": "Example Image" } },
+              { "type": "image", "payload": { "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg", "alt": "Example Image" } },
               { "type": "note", "payload": { "text": "This is an important note." } }
             ]
           }
@@ -129,3 +129,4 @@
     }
   }
 ]
+
