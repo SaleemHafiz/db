@@ -2,7 +2,7 @@
   {
     "id": "section",
     "payload": {
-      "heading": "Daily Prayers",
+      "heading": "Section Heading",
       "direction": "column",
       "collapsed": false,
       "children": [
@@ -10,36 +10,36 @@
           "id": "paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "Muslims are required to perform " },
-              { "type": "bold", "text": "five daily prayers" },
-              { "type": "text", "text": " to maintain spiritual connection." }
+              { "type": "text", "text": "This is a sample paragraph. " },
+              { "type": "bold", "text": "Bold text here" },
+              { "type": "text", "text": " continues the paragraph content." }
             ]
           }
         },
         {
           "id": "note",
           "payload": {
-            "text": "Always try to pray on time to gain full reward."
+            "text": "This is a generic note about something important."
           }
         },
         {
           "id": "section",
           "payload": {
-            "heading": "Prayer Times",
+            "heading": "Subsection Heading",
             "direction": "row",
             "children": [
               {
                 "id": "list",
                 "payload": {
-                  "items": ["Fajr", "Dhuhr", "Asr", "Maghrib", "Isha"],
+                  "items": ["Item 1", "Item 2", "Item 3", "Item 4", "Item 5"],
                   "ordered": true
                 }
               },
               {
                 "id": "image",
                 "payload": {
-                  "src": "images/masjid1.jpg",
-                  "alt": "Mosque at sunset"
+                  "src": "images/sample1.jpg",
+                  "alt": "Sample image"
                 }
               }
             ]
@@ -52,10 +52,10 @@
         {
           "id": "hadith",
           "payload": {
-            "arabic": "بني الإسلام على خمس",
-            "translation": "Islam is built upon five pillars.",
-            "source": "Bukhari, Muslim",
-            "grade": "Sahih"
+            "arabic": "نص عربي تجريبي",
+            "translation": "This is a sample translation text.",
+            "source": "Sample Source",
+            "grade": "Sample Grade"
           }
         }
       ]
@@ -64,54 +64,54 @@
   {
     "id": "quote",
     "payload": {
-      "text": "Actions are judged by intentions.",
-      "source": "Prophet Muhammad ﷺ"
+      "text": "This is a sample quote for display purposes.",
+      "source": "Author Name"
     }
   },
   {
     "id": "ayah",
     "payload": {
-      "surah": 2,
-      "ayah": 43,
-      "arabic": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
-      "translation": "Establish prayer and give zakah."
+      "surah": 1,
+      "ayah": 1,
+      "arabic": "نص عربي تجريبي",
+      "translation": "This is a sample translation of the verse."
     }
   },
   {
     "id": "warning",
     "payload": {
-      "text": "Do not skip obligatory prayers."
+      "text": "This is a sample warning message."
     }
   },
   {
     "id": "paragraph",
     "payload": {
       "inlines": [
-        { "type": "text", "text": "Reading the Quran daily strengthens " },
-        { "type": "bold", "text": "faith and guidance" },
-        { "type": "text", "text": "." }
+        { "type": "text", "text": "Another generic paragraph showing how content appears. " },
+        { "type": "bold", "text": "Bold section" },
+        { "type": "text", "text": " continues here." }
       ]
     }
   },
   {
     "id": "image",
     "payload": {
-      "src": "images/masjid2.jpg",
-      "alt": "Beautiful mosque interior"
+      "src": "images/sample2.jpg",
+      "alt": "Another sample image"
     }
   },
   {
     "id": "audio",
     "payload": {
-      "src": "audio/azan.mp3",
-      "title": "Fajr Azan"
+      "src": "audio/sample.mp3",
+      "title": "Sample Audio"
     }
   },
   {
     "id": "footnote",
     "payload": {
-      "text": "Some additional info about prayer timings.",
-      "reference": "Bukhari 528"
+      "text": "This is a sample footnote for demonstration.",
+      "reference": "Reference 123"
     }
   }
 ]
