@@ -1,106 +1,86 @@
 [
   {
-    "type": "Section",
+    "id": "section",
     "payload": {
       "heading": "Introduction to Islamic Studies",
+      "direction": "column",
+      "collapsed": false,
       "children": [
         {
-          "type": "Paragraph",
+          "id": "paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "Welcome to the " },
-              { "type": "bold", "text": "Islamic Studies" },
-              { "type": "text", "text": " course. In this book, you will explore basic concepts, learn about important figures, and understand ethical teachings." }
+              { "type": "text", "text": "Islamic Studies helps students understand " },
+              { "type": "bold", "text": "faith, ethics, and the teachings of Islam" },
+              { "type": "text", "text": ". This book will guide learners from basics to advanced knowledge, including " },
+              { "type": "highlight", "text": "Tajweed" },
+              { "type": "text", "text": ", Quranic understanding, Hadith, and Seerah." }
             ]
           }
         },
         {
-          "type": "Image",
+          "id": "image",
           "payload": {
-            "src": "/images/islamic_classroom.jpg",
-            "alt": "Students learning in classroom"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "type": "Divider"
-  },
-  {
-    "type": "Section",
-    "payload": {
-      "heading": "Important Hadiths",
-      "children": [
-        {
-          "type": "Hadith",
-          "payload": {
-            "arabic": "عن النبي ﷺ قال: من كان يؤمن بالله واليوم الآخر فليقل خيراً أو ليصمت",
-            "translation": "The Prophet ﷺ said: Whoever believes in Allah and the Last Day should speak good or remain silent.",
-            "source": "Sahih Muslim",
-            "grade": "Authentic"
+            "src": "images/intro_classroom.jpg",
+            "alt": "Students learning Islamic Studies"
           }
         },
         {
-          "type": "Note",
+          "id": "note",
           "payload": {
-            "text": "Remember: Always speak kindly and avoid hurtful words."
+            "text": "Tip: Begin each session with a short Du’a to focus and gain barakah."
           }
         }
       ]
     }
   },
   {
-    "type": "Divider"
+    "id": "divider",
+    "payload": {}
   },
+
   {
-    "type": "Section",
+    "id": "section",
     "payload": {
-      "heading": "Key Ethical Principles",
+      "heading": "Pillars of Islam",
+      "direction": "column",
       "children": [
         {
-          "type": "List",
+          "id": "paragraph",
           "payload": {
-            "ordered": false,
+            "inlines": [
+              { "type": "text", "text": "The " },
+              { "type": "bold", "text": "Five Pillars of Islam" },
+              { "type": "text", "text": " are the foundation of a Muslim’s life. Students should memorize and practice these pillars." }
+            ]
+          }
+        },
+        {
+          "id": "list",
+          "payload": {
+            "ordered": true,
             "items": [
-              "Honesty in speech and actions",
-              "Helping the needy",
-              "Respecting teachers and elders",
-              "Maintaining cleanliness"
+              "Shahada (Declaration of Faith)",
+              "Salah (Prayer)",
+              "Zakat (Charity)",
+              "Sawm (Fasting in Ramadan)",
+              "Hajj (Pilgrimage to Makkah)"
             ]
           }
         },
         {
-          "type": "Quote",
+          "id": "ayah",
           "payload": {
-            "text": "The best among you are those who have the best manners and character.",
-            "source": "Prophet Muhammad ﷺ"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "type": "Divider"
-  },
-  {
-    "type": "Section",
-    "payload": {
-      "heading": "Quranic Ayahs for Daily Life",
-      "children": [
-        {
-          "type": "Ayah",
-          "payload": {
-            "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
-            "translation": "And speak to people good [words].",
             "surah": "Al-Baqarah",
-            "ayah": 83
+            "ayah": 177,
+            "arabic": "لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ...",
+            "translation": "Righteousness is not that you turn your faces toward the east or the west..."
           }
         },
         {
-          "type": "Footnote",
+          "id": "footnote",
           "payload": {
-            "text": "This Ayah emphasizes the importance of speaking kindly to everyone.",
+            "text": "This Ayah emphasizes true righteousness is based on faith and action, not ritual alone.",
             "reference": "Tafsir Ibn Kathir"
           }
         }
@@ -108,54 +88,224 @@
     }
   },
   {
-    "type": "Divider"
+    "id": "divider",
+    "payload": {}
   },
+
   {
-    "type": "Section",
+    "id": "section",
     "payload": {
-      "heading": "Interactive Section: Listening & Learning",
+      "heading": "Seerah of Prophet Muhammad ﷺ",
+      "direction": "column",
       "children": [
         {
-          "type": "Audio",
+          "id": "paragraph",
           "payload": {
-            "title": "Recitation of Surah Al-Fatiha",
-            "src": "/audio/al_fatiha.mp3"
+            "inlines": [
+              { "type": "text", "text": "Learning the " },
+              { "type": "bold", "text": "Seerah" },
+              { "type": "text", "text": " teaches students about the life, character, and struggles of Prophet Muhammad ﷺ." }
+            ]
           }
         },
         {
-          "type": "Warning",
+          "id": "image",
           "payload": {
-            "text": "Make sure to listen carefully and repeat after the recitation for better memorization."
+            "src": "images/seerah.jpg",
+            "alt": "Illustration of Seerah"
+          }
+        },
+        {
+          "id": "hadith",
+          "payload": {
+            "arabic": "خيركم من تعلم القرآن وعلمه",
+            "translation": "The best among you are those who learn the Quran and teach it.",
+            "source": "Sahih al-Bukhari",
+            "grade": "Authentic"
+          }
+        },
+        {
+          "id": "note",
+          "payload": {
+            "text": "Focus on moral lessons from the Seerah for character development."
           }
         }
       ]
     }
   },
   {
-    "type": "Divider"
+    "id": "divider",
+    "payload": {}
   },
+
   {
-    "type": "Section",
+    "id": "section",
     "payload": {
-      "heading": "Summary & Tips",
+      "heading": "Tajweed Rules",
+      "direction": "column",
       "children": [
         {
-          "type": "Paragraph",
+          "id": "paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "Always combine " },
-              { "type": "highlight", "text": "knowledge" },
-              { "type": "text", "text": " with " },
-              { "type": "highlight", "text": "good character" },
-              { "type": "text", "text": ". Keep practicing and revising regularly." }
+              { "type": "text", "text": "Tajweed helps recite the Quran correctly with proper pronunciation and intonation." }
             ]
           }
         },
         {
-          "type": "Image",
+          "id": "list",
           "payload": {
-            "src": "/images/students_reading.jpg",
+            "ordered": false,
+            "items": [
+              "Makharij – Correct articulation points",
+              "Sifaat – Qualities of letters",
+              "Rules of Noon Saakin & Tanween",
+              "Rules of Meem Saakin",
+              "Qalqalah – Echoing sound letters"
+            ]
+          }
+        },
+        {
+          "id": "audio",
+          "payload": {
+            "title": "Tajweed Practice: Noon Saakin Example",
+            "src": "audio/noon_saakin.mp3"
+          }
+        },
+        {
+          "id": "warning",
+          "payload": {
+            "text": "Practice slowly and repeat each rule aloud for proper memorization."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "divider",
+    "payload": {}
+  },
+
+  {
+    "id": "section",
+    "payload": {
+      "heading": "Islamic Ethics (Akhlaq)",
+      "direction": "column",
+      "children": [
+        {
+          "id": "paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "A Muslim's character should reflect good " },
+              { "type": "bold", "text": "Akhlaq" },
+              { "type": "text", "text": " in daily life, including honesty, respect, and compassion." }
+            ]
+          }
+        },
+        {
+          "id": "list",
+          "payload": {
+            "ordered": false,
+            "items": [
+              "Respect teachers and elders",
+              "Speak kindly and avoid hurtful words",
+              "Help the needy",
+              "Maintain cleanliness"
+            ]
+          }
+        },
+        {
+          "id": "quote",
+          "payload": {
+            "text": "The best among you are those who have the best manners and character.",
+            "source": "Prophet Muhammad ﷺ"
+          }
+        },
+        {
+          "id": "note",
+          "payload": {
+            "text": "Teachers can discuss examples of good Akhlaq in class for better understanding."
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "divider",
+    "payload": {}
+  },
+
+  {
+    "id": "section",
+    "payload": {
+      "heading": "Interactive Exercises",
+      "direction": "column",
+      "children": [
+        {
+          "id": "paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "Students can try interactive exercises to test their knowledge on Tajweed, Seerah, and Akhlaq." }
+            ]
+          }
+        },
+        {
+          "id": "list",
+          "payload": {
+            "ordered": false,
+            "items": [
+              "Identify Tajweed errors in recitation",
+              "Match Hadith to its meaning",
+              "Answer multiple-choice questions on pillars of Islam",
+              "Reflect on ethical scenarios and choose correct actions"
+            ]
+          }
+        },
+        {
+          "id": "image",
+          "payload": {
+            "src": "images/exercises.jpg",
+            "alt": "Students doing exercises"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": "divider",
+    "payload": {}
+  },
+
+  {
+    "id": "section",
+    "payload": {
+      "heading": "Summary & Tips",
+      "direction": "column",
+      "children": [
+        {
+          "id": "paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "Combine " },
+              { "type": "highlight", "text": "knowledge" },
+              { "type": "text", "text": " with " },
+              { "type": "highlight", "text": "good character" },
+              { "type": "text", "text": ". Review regularly and practice Tajweed daily." }
+            ]
+          }
+        },
+        {
+          "id": "image",
+          "payload": {
+            "src": "images/students_reading.jpg",
             "alt": "Students reading book"
+          }
+        },
+        {
+          "id": "footnote",
+          "payload": {
+            "text": "Teachers should encourage students to memorize small sections daily for steady progress.",
+            "reference": "Educational Guidelines"
           }
         }
       ]
