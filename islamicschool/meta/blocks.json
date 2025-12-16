@@ -64,7 +64,7 @@
               {
                 "id": "image",
                 "payload": {
-                  "src": "images/sample1.jpg",
+                  "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg",
                   "alt": "Sample image"
                 }
               }
@@ -125,14 +125,14 @@
   {
     "id": "image",
     "payload": {
-      "src": "images/sample2.jpg",
+      "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg",
       "alt": "Another sample image"
     }
   },
   {
     "id": "audio",
     "payload": {
-      "src": "audio/sample.mp3",
+      "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg",
       "title": "Sample Audio"
     }
   },
