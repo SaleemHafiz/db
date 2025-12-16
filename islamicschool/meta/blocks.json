@@ -10,10 +10,7 @@
           "id": "paragraph",
           "payload": {
             "inlines": [
-              {
-                "id": "text",
-                "text": "This is a paragraph with an image and a note."
-              }
+              { "type": "text", "text": "This is a paragraph with an image and a note." }
             ],
             "children": [
               {
@@ -34,9 +31,11 @@
           "id": "paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "This is a sample paragraph. " },
-              { "type": "bold", "text": "Bold text here" },
-              { "type": "text", "text": " continues the paragraph content." }
+              { "type": "text", "text": "This is a sample paragraph with " },
+              { "type": "bold", "text": "bold text" },
+              { "type": "text", "text": " and " },
+              { "type": "italic", "text": "italic text" },
+              { "type": "text", "text": " included." }
             ]
           }
         },
@@ -111,10 +110,7 @@
     "id": "paragraph",
     "payload": {
       "inlines": [
-        {
-          "type": "text",
-          "text": "Another generic paragraph showing how content appears. "
-        },
+        { "type": "text", "text": "Another generic paragraph showing how content appears. " },
         { "type": "bold", "text": "Bold section" },
         { "type": "text", "text": " continues here." }
       ]
