@@ -11,20 +11,20 @@
           "payload": {
             "inlines": [
               {
-                "type": "text",
+                "id": "text",
                 "text": "This is a paragraph with an image and a note."
               }
             ],
             "children": [
               {
-                "type": "image",
+                "id": "image",
                 "payload": {
                   "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg",
                   "alt": "Example Image"
                 }
               },
               {
-                "type": "note",
+                "id": "note",
                 "payload": { "text": "This is an important note." }
               }
             ]
