@@ -1,0 +1,99 @@
+{
+  "id": "WhoIsAllah.advanced",
+  "topic": "WhoIsAllah",
+  "slug": "WhoIsAllah",
+  "level": "advanced",
+  "estimatedTime": "",
+  "tags": [],
+  "content": {
+    "title": "",
+    "blocks": [
+      {
+        "id": "section",
+        "payload": {
+          "heading": "Who is Allah?",
+          "children": [
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "Allah is the eternal and absolute Creator, free from all limitations. He existed before time and place, and His existence does not depend on the universe He created."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "Allah possesses perfect attributes. His knowledge is complete, His power is unlimited, and His wisdom governs all matters, seen and unseen."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "section",
+              "payload": {
+                "heading": "Oneness of Allah",
+                "children": [
+                  {
+                    "id": "paragraph",
+                    "payload": {
+                      "inlines": [
+                        {
+                          "type": "text",
+                          "text": "The core belief in Islam is the oneness of Allah. He alone deserves worship, obedience, and ultimate love. Associating partners with Him contradicts this fundamental truth."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "section",
+              "payload": {
+                "heading": "Relationship Between Allah and Humanity",
+                "children": [
+                  {
+                    "id": "paragraph",
+                    "payload": {
+                      "inlines": [
+                        {
+                          "type": "text",
+                          "text": "Allah guides humanity through revelation, prophets, and moral principles. He is close to His servants, hears their prayers, and responds with wisdom and mercy."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "quote",
+              "payload": {
+                "text": "He is the First and the Last, the Seen and the Unseen.",
+                "source": "Qur'an"
+              }
+            },
+            {
+              "id": "footnote",
+              "payload": {
+                "text": "Understanding Allah shapes faith, character, and purpose.",
+                "reference": "Islamic theology"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "references": {
+    "quran": [],
+    "hadith": []
+  }
+}

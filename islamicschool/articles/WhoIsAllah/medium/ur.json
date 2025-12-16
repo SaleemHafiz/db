@@ -1,0 +1,79 @@
+{
+  "id": "WhoIsAllah.medium",
+  "topic": "WhoIsAllah",
+  "slug": "WhoIsAllah",
+  "level": "medium",
+  "estimatedTime": "",
+  "tags": [],
+  "content": {
+    "title": "",
+    "blocks": [
+      {
+        "id": "section",
+        "payload": {
+          "heading": "اللہ کون ہے؟",
+          "children": [
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "اللہ تمام کائنات کا خالق ہے۔ وہ خود کسی نے پیدا نہیں کیا اور نہ ہی وہ کسی کا محتاج ہے۔ ہر چیز اللہ کی محتاج ہے۔"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "اللہ ایک ہے اور اس کا کوئی شریک نہیں۔ اس کی نہ کوئی اولاد ہے اور نہ وہ کسی کی اولاد ہے۔ کوئی چیز اس جیسی نہیں۔"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "section",
+              "payload": {
+                "heading": "اللہ کی صفات",
+                "children": [
+                  {
+                    "id": "list",
+                    "payload": {
+                      "items": [
+                        "اللہ سب کچھ جاننے والا ہے",
+                        "اللہ ہر چیز پر قادر ہے",
+                        "اللہ بہت رحم کرنے والا ہے",
+                        "اللہ ہمیشہ انصاف کرنے والا ہے"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "quote",
+              "payload": {
+                "text": "اس جیسا کوئی نہیں، اور وہ سب کچھ سننے والا، سب کچھ دیکھنے والا ہے۔",
+                "source": "قرآن"
+              }
+            },
+            {
+              "id": "note",
+              "payload": {
+                "text": "اللہ کو پہچاننے سے انسان کا کردار بہتر ہوتا ہے۔"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "references": {
+    "quran": [],
+    "hadith": []
+  }
+}

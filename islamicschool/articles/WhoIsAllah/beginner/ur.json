@@ -1,0 +1,70 @@
+{
+  "id": "WhoIsAllah.beginner",
+  "topic": "WhoIsAllah",
+  "slug": "WhoIsAllah",
+  "level": "beginner",
+  "estimatedTime": "",
+  "tags": [],
+  "content": {
+    "title": "",
+    "blocks": [
+      {
+        "id": "section",
+        "payload": {
+          "heading": "اللہ کون ہے؟",
+          "children": [
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "اللہ ایک ہے۔ اللہ ہی سب کا خالق ہے۔ اس نے انسانوں، جانوروں، درختوں، آسمان اور زمین کو پیدا کیا۔"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "اللہ بہت مہربان ہے۔ وہ ہمیں کھانا، پانی اور زندگی کی ہر نعمت دیتا ہے۔"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "list",
+              "payload": {
+                "items": [
+                  "اللہ نے سب کچھ بنایا",
+                  "اللہ سب کچھ جانتا ہے",
+                  "اللہ نیک لوگوں سے محبت کرتا ہے"
+                ]
+              }
+            },
+            {
+              "id": "quote",
+              "payload": {
+                "text": "اللہ ایک ہے۔",
+                "source": "اسلامی عقیدہ"
+              }
+            },
+            {
+              "id": "note",
+              "payload": {
+                "text": "مسلمان صرف اللہ کی عبادت کرتے ہیں۔"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "references": {
+    "quran": [],
+    "hadith": []
+  }
+}
