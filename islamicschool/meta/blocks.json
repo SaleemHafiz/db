@@ -2,7 +2,7 @@
   {
     "id": "section",
     "payload": {
-      "heading": "Main Section Heading",
+      "heading": "Section Heading",
       "direction": "column",
       "collapsed": false,
       "children": [
@@ -10,11 +10,23 @@
           "id": "paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "This is a paragraph with an image and a note." }
+              {
+                "type": "text",
+                "text": "This is a paragraph with an image and a note."
+              }
             ],
             "children": [
-              { "type": "image", "payload": { "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg", "alt": "Example Image" } },
-              { "type": "note", "payload": { "text": "This is an important note." } }
+              {
+                "type": "image",
+                "payload": {
+                  "src": "https://images.pexels.com/photos/2233416/pexels-photo-2233416.jpeg",
+                  "alt": "Example Image"
+                }
+              },
+              {
+                "type": "note",
+                "payload": { "text": "This is an important note." }
+              }
             ]
           }
         },
@@ -22,11 +34,9 @@
           "id": "paragraph",
           "payload": {
             "inlines": [
-              { "type": "text", "text": "This is a sample paragraph with " },
-              { "type": "bold", "text": "bold text" },
-              { "type": "text", "text": " and " },
-              { "type": "italic", "text": "italic text" },
-              { "type": "text", "text": " included." }
+              { "type": "text", "text": "This is a sample paragraph. " },
+              { "type": "bold", "text": "Bold text here" },
+              { "type": "text", "text": " continues the paragraph content." }
             ]
           }
         },
@@ -52,7 +62,7 @@
               {
                 "id": "image",
                 "payload": {
-                  "src": "/images/sample1.jpg",
+                  "src": "images/sample1.jpg",
                   "alt": "Sample image"
                 }
               }
@@ -101,7 +111,10 @@
     "id": "paragraph",
     "payload": {
       "inlines": [
-        { "type": "text", "text": "Another generic paragraph showing how content appears. " },
+        {
+          "type": "text",
+          "text": "Another generic paragraph showing how content appears. "
+        },
         { "type": "bold", "text": "Bold section" },
         { "type": "text", "text": " continues here." }
       ]
@@ -110,14 +123,14 @@
   {
     "id": "image",
     "payload": {
-      "src": "/images/sample2.jpg",
+      "src": "images/sample2.jpg",
       "alt": "Another sample image"
     }
   },
   {
     "id": "audio",
     "payload": {
-      "src": "/audio/sample.mp3",
+      "src": "audio/sample.mp3",
       "title": "Sample Audio"
     }
   },
@@ -129,4 +142,3 @@
     }
   }
 ]
-
