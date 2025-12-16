@@ -1,93 +1,109 @@
-{
-  "title": {
-    "en": "Welcome to Islamic School",
-    "ur": "اسلامک اسکول میں خوش آمدید"
-  },
-  "hero": {
-    "heading": {
-      "en": "Learn Islam with Ease",
-      "ur": "اسلام سیکھیں آسانی سے"
-    },
-    "subheading": {
-      "en": "Explore articles, lessons, and resources",
-      "ur": "مقالات، سبق، اور وسائل دریافت کریں"
-    },
-    "image": "images/home-hero.jpg"
-  },
-  "sections": [
-    {
-      "id": "section",
-      "payload": {
-        "heading": "Featured Articles",
-        "direction": "row",
-        "children": [
-          {
-            "id": "section",
-            "payload": {
-              "heading": "Salah",
-              "direction": "column",
-              "children": [
-                {
-                  "id": "paragraph",
-                  "payload": {
-                    "inlines": [
-                      { "type": "text", "text": "Learn about the obligatory prayer in Islam." }
-                    ]
-                  }
-                },
-                {
-                  "id": "image",
-                  "payload": {
-                    "src": "images/salah.jpg",
-                    "alt": "Salah"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "id": "section",
-            "payload": {
-              "heading": "Zakat",
-              "direction": "column",
-              "children": [
-                {
-                  "id": "paragraph",
-                  "payload": {
-                    "inlines": [
-                      { "type": "text", "text": "Guidelines on giving Zakat in Islam." }
-                    ]
-                  }
-                },
-                {
-                  "id": "image",
-                  "payload": {
-                    "src": "images/zakat.jpg",
-                    "alt": "Zakat"
-                  }
-                }
-              ]
-            }
+[
+  {
+    "type": "section",
+    "payload": {
+      "heading": "Welcome to Islamic Studies",
+      "children": [
+        {
+          "type": "paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "This book will guide students through " },
+              { "type": "bold", "text": "important concepts" },
+              { "type": "text", "text": " in Islamic history and teachings." }
+            ]
           }
-        ]
-      }
-    },
-    {
-      "id": "section",
-      "payload": {
-        "heading": "Latest Lessons",
-        "direction": "column",
-        "children": [
-          {
-            "id": "paragraph",
-            "payload": {
-              "inlines": [
-                { "type": "text", "text": "Check out the newest lessons added for students of all levels." }
-              ]
-            }
+        },
+        {
+          "type": "note",
+          "payload": {
+            "text": "Remember: Always refer to authentic sources when studying."
           }
-        ]
-      }
+        }
+      ]
     }
-  ]
-}
+  },
+  {
+    "type": "section",
+    "payload": {
+      "heading": "Core Principles",
+      "children": [
+        {
+          "type": "list",
+          "payload": {
+            "ordered": true,
+            "items": [
+              "Belief in One God",
+              "Respect for the Prophet ﷺ",
+              "Honesty and Integrity",
+              "Helping Others"
+            ]
+          }
+        },
+        {
+          "type": "paragraph",
+          "payload": {
+            "inlines": [
+              { "type": "text", "text": "These principles form the foundation of good character and behavior." }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "type": "image",
+    "payload": {
+      "src": "/images/mosque.jpg",
+      "alt": "Mosque"
+    }
+  },
+  {
+    "type": "divider"
+  },
+  {
+    "type": "hadith",
+    "payload": {
+      "arabic": "إنما الأعمال بالنيات",
+      "translation": "Actions are judged by intentions.",
+      "source": "Bukhari",
+      "grade": "Sahih"
+    }
+  },
+  {
+    "type": "quote",
+    "payload": {
+      "text": "Knowledge enlivens the soul.",
+      "source": "Prophet Muhammad ﷺ"
+    }
+  },
+  {
+    "type": "ayah",
+    "payload": {
+      "arabic": "وَقُولُوا لِلنَّاسِ حُسْنًا",
+      "translation": "And speak kindly to people.",
+      "surah": "Al-Baqarah",
+      "ayah": 83
+    }
+  },
+  {
+    "type": "warning",
+    "payload": {
+      "text": "Avoid copying content; always write in your own words."
+    }
+  },
+  {
+    "type": "audio",
+    "payload": {
+      "title": "Recitation of Surah Al-Fatihah",
+      "src": "/audio/alfatihah.mp3"
+    }
+  },
+  {
+    "type": "footnote",
+    "payload": {
+      "text": "This content is intended for educational purposes.",
+      "reference": "Page 1"
+    }
+  }
+]
