@@ -1,5 +1,9 @@
 {
-  "languages": ["en", "ur", "ar"],
+  "languages": [
+    { "code": "en", "en": "English", "ur": "انگریزی", "ar": "الإنجليزية" },
+    { "code": "ur", "en": "Urdu", "ur": "اردو", "ar": "الأردية" },
+    { "code": "ar", "en": "Arabic", "ur": "عربی", "ar": "العربية" }
+  ],
   "levels": [
     { "en": "beginner", "ur": "ابتدائی", "ar": "مبتدئ" },
     { "en": "medium", "ur": "درمیانہ", "ar": "متوسط" },
