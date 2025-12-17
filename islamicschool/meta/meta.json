@@ -5,225 +5,74 @@
     { "code": "pa", "en": "Punjabi", "ur": "پنجابی", "pa": "پنجابی" }
   ],
   "levels": [
-    { "en": "kids", "ur": "بچوں", "pa": "بچّے" },
-    { "en": "intermediate", "ur": "درمیانہ", "pa": "درمیانہ" },
-    { "en": "advanced", "ur": "اعلی", "pa": "اعلی" }
+    { "id": "kids", "en": "kids", "ur": "بچوں", "pa": "بچّے" },
+    { "id": "intermediate", "en": "intermediate", "ur": "درمیانہ", "pa": "درمیانہ" },
+    { "id": "advanced", "en": "advanced", "ur": "اعلی", "pa": "اعلی" }
   ],
   "subjects": [
-    { "en": "Fiqh", "ur": "فقہ", "pa": "فقہ" },
-    { "en": "Seerah", "ur": "سیرت", "pa": "سیرت" },
-    { "en": "Aqeedah", "ur": "عقیدہ", "pa": "عقیدہ" },
-    { "en": "Hadith", "ur": "حدیث", "pa": "حدیث" },
-    { "en": "Quran", "ur": "قرآن", "pa": "قرآن" },
-    { "en": "Tafsir", "ur": "تفسیر", "pa": "تفسیر" },
-    { "en": "Islamic History", "ur": "اسلامی تاریخ", "pa": "اسلامی تاریخ" },
-    { "en": "Dua & Adhkar", "ur": "دعائیں و اذکار", "pa": "دعائیں و اذکار" },
-    {
-      "en": "Islamic Ethics",
-      "ur": "اسلامی اخلاقیات",
-      "pa": "اسلامی اخلاقیات"
-    },
-    {
-      "en": "Prayer & Worship",
-      "ur": "نماز اور عبادات",
-      "pa": "نماز تے عبادات"
-    },
-    { "en": "Islamic Finance", "ur": "اسلامی مالیات", "pa": "اسلامی مالیات" },
-    { "en": "Prophets", "ur": "انبیاء", "pa": "انبیا" },
-    {
-      "en": "Family & Society",
-      "ur": "خاندان اور معاشرہ",
-      "pa": "خاندانی تے معاشرتی تعلیمات"
-    },
-    { "en": "Fasting", "ur": "روزہ", "pa": "روزہ" },
-    { "en": "Hajj & Umrah", "ur": "حج و عمرہ", "pa": "حج تے عمرہ" },
-    { "en": "Islamic Law", "ur": "اسلامی قانون", "pa": "اسلامی قانون" },
-    {
-      "en": "Stories of Companions",
-      "ur": "صحابہ کی کہانیاں",
-      "pa": "صحابہ دیاں کہانیاں"
-    },
-    { "en": "Islamic Manners", "ur": "اسلامی آداب", "pa": "اسلامی آداب" }
+    { "id": "fiqh", "en": "Fiqh", "ur": "فقہ", "pa": "فقہ" },
+    { "id": "seerah", "en": "Seerah", "ur": "سیرت", "pa": "سیرت" },
+    { "id": "aqeedah", "en": "Aqeedah", "ur": "عقیدہ", "pa": "عقیدہ" },
+    { "id": "hadith", "en": "Hadith", "ur": "حدیث", "pa": "حدیث" },
+    { "id": "quran", "en": "Quran", "ur": "قرآن", "pa": "قرآن" },
+    { "id": "tafsir", "en": "Tafsir", "ur": "تفسیر", "pa": "تفسیر" },
+    { "id": "islamic-history", "en": "Islamic History", "ur": "اسلامی تاریخ", "pa": "اسلامی تاریخ" },
+    { "id": "dua-adhkar", "en": "Dua & Adhkar", "ur": "دعائیں و اذکار", "pa": "دعائیں و اذکار" },
+    { "id": "islamic-ethics", "en": "Islamic Ethics", "ur": "اسلامی اخلاقیات", "pa": "اسلامی اخلاقیات" },
+    { "id": "prayer-worship", "en": "Prayer & Worship", "ur": "نماز اور عبادات", "pa": "نماز تے عبادات" },
+    { "id": "islamic-finance", "en": "Islamic Finance", "ur": "اسلامی مالیات", "pa": "اسلامی مالیات" },
+    { "id": "prophets", "en": "Prophets", "ur": "انبیاء", "pa": "انبیا" },
+    { "id": "family-society", "en": "Family & Society", "ur": "خاندان اور معاشرہ", "pa": "خاندانی تے معاشرتی تعلیمات" },
+    { "id": "fasting", "en": "Fasting", "ur": "روزہ", "pa": "روزہ" },
+    { "id": "hajj-umrah", "en": "Hajj & Umrah", "ur": "حج و عمرہ", "pa": "حج تے عمرہ" },
+    { "id": "islamic-law", "en": "Islamic Law", "ur": "اسلامی قانون", "pa": "اسلامی قانون" },
+    { "id": "companions-stories", "en": "Stories of Companions", "ur": "صحابہ کی کہانیاں", "pa": "صحابہ دیاں کہانیاں" },
+    { "id": "islamic-manners", "en": "Islamic Manners", "ur": "اسلامی آداب", "pa": "اسلامی آداب" }
   ],
   "articles": [
     {
       "id": "salah",
-      "subjects": ["Fiqh"],
+      "subjects": ["fiqh"],
       "availability": [
-        {
-          "lang": "en",
-          "level": "kids",
-          "title": "Salah for Kids",
-          "description": "Learn the basics of obligatory prayer in Islam for children."
-        },
-        {
-          "lang": "en",
-          "level": "intermediate",
-          "title": "Salah",
-          "description": "Learn about the obligatory prayer in Islam."
-        },
-        {
-          "lang": "en",
-          "level": "advanced",
-          "title": "Salah - Advanced",
-          "description": "Detailed guide on the obligations, rulings, and etiquette of Salah."
-        },
-        {
-          "lang": "ur",
-          "level": "kids",
-          "title": "بچوں کے لیے نماز",
-          "description": "بچوں کے لیے اسلامی نماز کی بنیادی معلومات۔"
-        },
-        {
-          "lang": "ur",
-          "level": "intermediate",
-          "title": "نماز",
-          "description": "اسلام میں فرض نماز کے بارے میں سیکھیں۔"
-        },
-        {
-          "lang": "ur",
-          "level": "advanced",
-          "title": "نماز - اعلی",
-          "description": "نماز کی شرائط، احکام اور آداب کے بارے میں تفصیلی رہنمائی۔"
-        },
-        {
-          "lang": "pa",
-          "level": "kids",
-          "title": "بچّے کے لیے نماز",
-          "description": "بچّے کے لیے اسلامی نماز کی بنیادی معلومات۔"
-        },
-        {
-          "lang": "pa",
-          "level": "intermediate",
-          "title": "نماز",
-          "description": "اسلام وچ فرض نماز بارے وڈا سمجھاؤ۔"
-        },
-        {
-          "lang": "pa",
-          "level": "advanced",
-          "title": "نماز - اعلی",
-          "description": "نماز دیاں شرائط، احکام تے آداب بارے تفصیلی رہنمائی۔"
-        }
+        { "lang": "en", "level": "kids", "title": "Salah for Kids", "description": "Learn the basics of obligatory prayer in Islam for children." },
+        { "lang": "en", "level": "intermediate", "title": "Salah", "description": "Learn about the obligatory prayer in Islam." },
+        { "lang": "en", "level": "advanced", "title": "Salah - Advanced", "description": "Detailed guide on the obligations, rulings, and etiquette of Salah." },
+        { "lang": "ur", "level": "kids", "title": "بچوں کے لیے نماز", "description": "بچوں کے لیے اسلامی نماز کی بنیادی معلومات۔" },
+        { "lang": "ur", "level": "intermediate", "title": "نماز", "description": "اسلام میں فرض نماز کے بارے میں سیکھیں۔" },
+        { "lang": "ur", "level": "advanced", "title": "نماز - اعلی", "description": "نماز کی شرائط، احکام اور آداب کے بارے میں تفصیلی رہنمائی۔" },
+        { "lang": "pa", "level": "kids", "title": "بچّے کے لیے نماز", "description": "بچّے کے لیے اسلامی نماز کی بنیادی معلومات۔" },
+        { "lang": "pa", "level": "intermediate", "title": "نماز", "description": "اسلام وچ فرض نماز بارے وڈا سمجھاؤ۔" },
+        { "lang": "pa", "level": "advanced", "title": "نماز - اعلی", "description": "نماز دیاں شرائط، احکام تے آداب بارے تفصیلی رہنمائی۔" }
       ]
     },
     {
       "id": "zakat",
-      "subjects": ["Fiqh"],
+      "subjects": ["fiqh"],
       "availability": [
-        {
-          "lang": "en",
-          "level": "kids",
-          "title": "Zakat for Kids",
-          "description": "Learn the basics of giving Zakat for children."
-        },
-        {
-          "lang": "en",
-          "level": "intermediate",
-          "title": "Zakat",
-          "description": "Guidelines on giving Zakat in Islam."
-        },
-        {
-          "lang": "en",
-          "level": "advanced",
-          "title": "Zakat - Advanced",
-          "description": "Detailed guide on Zakat obligations, calculations, and distribution."
-        },
-        {
-          "lang": "ur",
-          "level": "kids",
-          "title": "بچوں کے لیے زکوة",
-          "description": "بچوں کے لیے زکوة دینے کی بنیادی معلومات۔"
-        },
-        {
-          "lang": "ur",
-          "level": "intermediate",
-          "title": "زکوة",
-          "description": "اسلام میں زکوة دینے کے اصول۔"
-        },
-        {
-          "lang": "ur",
-          "level": "advanced",
-          "title": "زکوة - اعلی",
-          "description": "زکوة کے احکام، حساب اور تقسیم پر تفصیلی رہنمائی۔"
-        },
-        {
-          "lang": "pa",
-          "level": "kids",
-          "title": "بچّے کے لیے زکوة",
-          "description": "بچّے کے لیے زکوة دینے دی بنیادی معلومات۔"
-        },
-        {
-          "lang": "pa",
-          "level": "intermediate",
-          "title": "زکوة",
-          "description": "اسلام وچ زکوة دینے دے اصول۔"
-        },
-        {
-          "lang": "pa",
-          "level": "advanced",
-          "title": "زکوة - اعلی",
-          "description": "زکوة دے احکام، حساب تے تقسیم بارے تفصیلی رہنمائی۔"
-        }
+        { "lang": "en", "level": "kids", "title": "Zakat for Kids", "description": "Learn the basics of giving Zakat for children." },
+        { "lang": "en", "level": "intermediate", "title": "Zakat", "description": "Guidelines on giving Zakat in Islam." },
+        { "lang": "en", "level": "advanced", "title": "Zakat - Advanced", "description": "Detailed guide on Zakat obligations, calculations, and distribution." },
+        { "lang": "ur", "level": "kids", "title": "بچوں کے لیے زکوة", "description": "بچوں کے لیے زکوة دینے کی بنیادی معلومات۔" },
+        { "lang": "ur", "level": "intermediate", "title": "زکوة", "description": "اسلام میں زکوة دینے کے اصول۔" },
+        { "lang": "ur", "level": "advanced", "title": "زکوة - اعلی", "description": "زکوة کے احکام، حساب اور تقسیم پر تفصیلی رہنمائی۔" },
+        { "lang": "pa", "level": "kids", "title": "بچّے کے لیے زکوة", "description": "بچّے کے لیے زکوة دینے دی بنیادی معلومات۔" },
+        { "lang": "pa", "level": "intermediate", "title": "زکوة", "description": "اسلام وچ زکوة دینے دے اصول۔" },
+        { "lang": "pa", "level": "advanced", "title": "زکوة - اعلی", "description": "زکوة دے احکام، حساب تے تقسیم بارے تفصیلی رہنمائی۔" }
       ]
     },
     {
       "id": "seerah",
-      "subjects": ["Seerah", "Islamic History"],
+      "subjects": ["seerah", "islamic-history"],
       "availability": [
-        {
-          "lang": "en",
-          "level": "kids",
-          "title": "Seerah for Kids",
-          "description": "Introduction to the life of Prophet Muhammad ﷺ for children."
-        },
-        {
-          "lang": "en",
-          "level": "intermediate",
-          "title": "Seerah of the Prophet ﷺ",
-          "description": "The life story of Prophet Muhammad ﷺ."
-        },
-        {
-          "lang": "en",
-          "level": "advanced",
-          "title": "Seerah - Advanced",
-          "description": "In-depth analysis of the life events, teachings, and legacy of Prophet Muhammad ﷺ."
-        },
-        {
-          "lang": "ur",
-          "level": "kids",
-          "title": "بچوں کے لیے سیرت",
-          "description": "حضرت محمد ﷺ کی زندگی کا تعارف بچوں کے لیے۔"
-        },
-        {
-          "lang": "ur",
-          "level": "intermediate",
-          "title": "سیرتِ رسول ﷺ",
-          "description": "حضرت محمد ﷺ کی زندگی کا احوال۔"
-        },
-        {
-          "lang": "ur",
-          "level": "advanced",
-          "title": "سیرت - اعلی",
-          "description": "حضرت محمد ﷺ کی زندگی کے واقعات، تعلیمات اور وراثت پر تفصیلی جائزہ۔"
-        },
-        {
-          "lang": "pa",
-          "level": "kids",
-          "title": "بچّے کے لیے سیرت",
-          "description": "حضرت محمد ﷺ دی زندگی دا تعارف بچّیاں لئی۔"
-        },
-        {
-          "lang": "pa",
-          "level": "intermediate",
-          "title": "سیرتِ رسول ﷺ",
-          "description": "حضرت محمد ﷺ دی زندگی دا احوال۔"
-        },
-        {
-          "lang": "pa",
-          "level": "advanced",
-          "title": "سیرت - اعلی",
-          "description": "حضرت محمد ﷺ دے واقعات، تعلیمات تے وراثت بارے تفصیلی جائزہ۔"
-        }
+        { "lang": "en", "level": "kids", "title": "Seerah for Kids", "description": "Introduction to the life of Prophet Muhammad ﷺ for children." },
+        { "lang": "en", "level": "intermediate", "title": "Seerah of the Prophet ﷺ", "description": "The life story of Prophet Muhammad ﷺ." },
+        { "lang": "en", "level": "advanced", "title": "Seerah - Advanced", "description": "In-depth analysis of the life events, teachings, and legacy of Prophet Muhammad ﷺ." },
+        { "lang": "ur", "level": "kids", "title": "بچوں کے لیے سیرت", "description": "حضرت محمد ﷺ کی زندگی کا تعارف بچوں کے لیے۔" },
+        { "lang": "ur", "level": "intermediate", "title": "سیرتِ رسول ﷺ", "description": "حضرت محمد ﷺ کی زندگی کا احوال۔" },
+        { "lang": "ur", "level": "advanced", "title": "سیرت - اعلی", "description": "حضرت محمد ﷺ کی زندگی کے واقعات، تعلیمات اور وراثت پر تفصیلی جائزہ۔" },
+        { "lang": "pa", "level": "kids", "title": "بچّے کے لیے سیرت", "description": "حضرت محمد ﷺ دی زندگی دا تعارف بچّیاں لئی۔" },
+        { "lang": "pa", "level": "intermediate", "title": "سیرتِ رسول ﷺ", "description": "حضرت محمد ﷺ دی زندگی دا احوال۔" },
+        { "lang": "pa", "level": "advanced", "title": "سیرت - اعلی", "description": "حضرت محمد ﷺ دے واقعات، تعلیمات تے وراثت بارے تفصیلی جائزہ۔" }
       ]
     }
   ]
