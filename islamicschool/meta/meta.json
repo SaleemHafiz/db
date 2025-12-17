@@ -1,32 +1,39 @@
 {
-  "languages": ["en", "ur"],
-  "levels": ["beginner", "medium", "advanced"],
+  "languages": ["en", "ur", "ar"],
+  "levels": [
+    { "en": "beginner", "ur": "ابتدائی", "ar": "مبتدئ" },
+    { "en": "medium", "ur": "درمیانہ", "ar": "متوسط" },
+    { "en": "advanced", "ur": "اعلی", "ar": "متقدم" }
+  ],
   "subjects": [
-    "Fiqh",
-    "Seerah",
-    "Aqeedah",
-    "Hadith",
-    "Quran",
-    "Tafsir",
-    "Islamic History",
-    "Dua & Adhkar"
+    { "en": "Fiqh", "ur": "فقہ", "ar": "الفقه" },
+    { "en": "Seerah", "ur": "سیرت", "ar": "السيرة" },
+    { "en": "Aqeedah", "ur": "عقیدہ", "ar": "العقيدة" },
+    { "en": "Hadith", "ur": "حدیث", "ar": "الحديث" },
+    { "en": "Quran", "ur": "قرآن", "ar": "القرآن" },
+    { "en": "Tafsir", "ur": "تفسیر", "ar": "التفسير" },
+    { "en": "Islamic History", "ur": "اسلامی تاریخ", "ar": "التاريخ الإسلامي" },
+    { "en": "Dua & Adhkar", "ur": "دعائیں و اذکار", "ar": "الأدعية و الأذكار" }
   ],
   "articles": [
     {
       "id": "salah",
       "title": {
         "en": "Salah",
-        "ur": "نماز"
+        "ur": "نماز",
+        "ar": "الصلاة"
       },
       "level": ["beginner", "medium", "advanced"],
       "subjects": ["Fiqh"],
       "path": {
         "en": "articles/salah/en.json",
-        "ur": "articles/salah/ur.json"
+        "ur": "articles/salah/ur.json",
+        "ar": "articles/salah/ar.json"
       },
       "description": {
         "en": "Learn about the obligatory prayer in Islam.",
-        "ur": "اسلام میں فرض نماز کے بارے میں سیکھیں۔"
+        "ur": "اسلام میں فرض نماز کے بارے میں سیکھیں۔",
+        "ar": "تعلم عن الصلاة المفروضة في الإسلام."
       },
       "tags": ["prayer", "obligatory", "ibadah"]
     },
@@ -34,17 +41,20 @@
       "id": "zakat",
       "title": {
         "en": "Zakat",
-        "ur": "زکوة"
+        "ur": "زکوة",
+        "ar": "الزكاة"
       },
       "level": ["beginner", "medium", "advanced"],
       "subjects": ["Fiqh"],
       "path": {
         "en": "articles/zakat/en.json",
-        "ur": "articles/zakat/ur.json"
+        "ur": "articles/zakat/ur.json",
+        "ar": "articles/zakat/ar.json"
       },
       "description": {
         "en": "Guidelines on giving Zakat in Islam.",
-        "ur": "اسلام میں زکوة دینے کے اصول۔"
+        "ur": "اسلام میں زکوة دینے کے اصول۔",
+        "ar": "إرشادات حول دفع الزكاة في الإسلام."
       },
       "tags": ["charity", "finance", "ibadah"]
     },
@@ -52,17 +62,20 @@
       "id": "seerah",
       "title": {
         "en": "Seerah of the Prophet ﷺ",
-        "ur": "سیرتِ رسول ﷺ"
+        "ur": "سیرتِ رسول ﷺ",
+        "ar": "سيرة النبي ﷺ"
       },
       "level": ["beginner", "medium", "advanced"],
       "subjects": ["Seerah", "Islamic History"],
       "path": {
         "en": "articles/seerah/en.json",
-        "ur": "articles/seerah/ur.json"
+        "ur": "articles/seerah/ur.json",
+        "ar": "articles/seerah/ar.json"
       },
       "description": {
         "en": "The life story of Prophet Muhammad ﷺ.",
-        "ur": "حضرت محمد ﷺ کی زندگی کا احوال۔"
+        "ur": "حضرت محمد ﷺ کی زندگی کا احوال۔",
+        "ar": "قصة حياة النبي محمد ﷺ."
       },
       "tags": ["prophet", "biography", "history"]
     }
