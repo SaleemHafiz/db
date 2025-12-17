@@ -1,0 +1,70 @@
+{
+  "id": "WhoIsAllah.beginner",
+  "topic": "WhoIsAllah",
+  "slug": "WhoIsAllah",
+  "level": "beginner",
+  "estimatedTime": "",
+  "tags": [],
+  "content": {
+    "title": "",
+    "blocks": [
+      {
+        "id": "section",
+        "payload": {
+          "heading": "Who is Allah?",
+          "children": [
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "Allah is the name of the One true God. Muslims believe that Allah created everything in the world and everything in the sky. He created people, animals, plants, the sun, the moon, and the stars."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "paragraph",
+              "payload": {
+                "inlines": [
+                  {
+                    "type": "text",
+                    "text": "Allah is very kind and very loving. He takes care of all His creation. He gives us food, water, air, and everything we need to live."
+                  }
+                ]
+              }
+            },
+            {
+              "id": "list",
+              "payload": {
+                "items": [
+                  "Allah made everything",
+                  "Allah knows everything",
+                  "Allah loves those who do good"
+                ]
+              }
+            },
+            {
+              "id": "quote",
+              "payload": {
+                "text": "Allah is One.",
+                "source": "Islamic belief"
+              }
+            },
+            {
+              "id": "note",
+              "payload": {
+                "text": "Muslims worship only Allah and no one else."
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "references": {
+    "quran": [],
+    "hadith": []
+  }
+}
