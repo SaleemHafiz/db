@@ -49,9 +49,9 @@
       "id": "WhoIsAllah",
       "subjects": ["aqeedah"],
       "availability": [
-        { "lang": "en", "level": "kids", "title": "Salah for Kids", "description": "Learn the basics of obligatory prayer in Islam for children." },
-        { "lang": "en", "level": "intermediate", "title": "Salah", "description": "Learn about the obligatory prayer in Islam." },
-        { "lang": "en", "level": "advanced", "title": "Salah - Advanced", "description": "Detailed guide on the obligations, rulings, and etiquette of Salah." },
+        { "lang": "en", "level": "kids", "title": "Who is Allah", "description": "Learn about the only God." },
+        { "lang": "en", "level": "intermediate", "title": "Who is Allah", "description": "Learn about the only God." },
+        { "lang": "en", "level": "advanced", "title": "Who is Allah", "description": "Learn about the only God." },
         { "lang": "ur", "level": "kids", "title": "اللہ کون ہے", "description": "اللہ تعالٰی کے بارے میں" },
         { "lang": "ur", "level": "intermediate", "title": "اللہ کون ہے", "description": "اللہ تعالٰی کے بارے میں" },
         { "lang": "ur", "level": "advanced", "title": "اللہ کون ہے", "description": "اللہ تعالٰی کے بارے میں" },
