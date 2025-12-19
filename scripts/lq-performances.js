@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         perf
+// @name         LearnQuran Performance Panel
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @match        https://my.learnquraan.co.uk/employees/teacher/lesson-step1*
@@ -54,6 +54,7 @@ h3{text-align:center;font-size:12px;opacity:.7}
 #toast::before{content:attr(data-text);padding:18px 50px;border-radius:28px;font-size:30px;font-weight:800;color:#fff;background:var(--bg);opacity:0;transform:translateY(-20px);transition:.4s}
 #toast.show::before{opacity:1;transform:none}
 #mini{position:fixed;top:10px;right:10px;width:34px;height:34px;border-radius:50%;background:#020617;color:#93c5fd;display:none;align-items:center;justify-content:center;cursor:pointer;z-index:9999;box-shadow:0 0 12px rgba(0,0,0,.6)}
+.pswp{position:fixed!important;left:0!important;top:0!important;width:80vw!important;height:100vh!important;z-index:9998!important}.pswp__bg{width:80vw!important;background:rgba(2,6,23,0.92)!important}.pswp__scroll-wrap,.pswp__container,.pswp__item{width:80vw!important}.pswp__ui{right:auto!important}.pswp__button--fs{display:none!important}
 `);
 const open=()=>{panel.style.display="flex";site.style.marginRight="20vw";mini.style.display="none";pref.panelOpen=true;S("listOfStudents",students)};
 const close=()=>{panel.style.display="none";site.style.marginRight="0";mini.style.display="flex";pref.panelOpen=false;S("listOfStudents",students)};
