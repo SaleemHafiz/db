@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         LearnQuran Performance Panel
+// @name         perf
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @match        https://my.learnquraan.co.uk/employees/teacher/lesson-step1*
