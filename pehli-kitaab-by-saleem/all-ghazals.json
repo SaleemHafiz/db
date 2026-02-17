@@ -911,6 +911,112 @@
           ]
         }
       ]
+    },
+    {
+      "id": 8,
+      "isFeatured": "false",
+      "coverImage": "",
+      "youtubeLink": "https://youtu.be/MzEFeIRJ0eQ?si=o_1iT2CIPpRVzeiP",
+      "groups": [
+        {
+          "lines": [
+            {
+              "urdu": "تم کیا ہی سمجھ لو گے، ہے بات بڑی مشکل",
+              "roman": "tum kya hi samajh loge, hai baat badi mushkil",
+              "hindi": "तुम क्या ही समझ लोगे, है बात बड़ी मुश्किल"
+            },
+            {
+              "urdu": "کہ وہ ہی سمجھ پائے یہ جس نے سہی مشکل",
+              "roman": "ke woh hi samajh paaye ye jis ne sahi mushkil",
+              "hindi": "के वो ही समझ पाए ये जिस ने सही मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "جیون بھی مرا دشمن، ہر سانس ہوئی مشکل",
+              "roman": "jeevan bhi mera dushman, har saans hui mushkil",
+              "hindi": "जीवन भी मेरा दुश्मन, हर साँस हुई मुश्किल"
+            },
+            {
+              "urdu": "ہر موڑ پہ دیکھوں تو ملتی ہے نئی مشکل",
+              "roman": "har mod pe dekhun to milti hai nai mushkil",
+              "hindi": "हर मोड़ पे देखूं तो मिलती है नई मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "اک عمر گزاری ہے ہر رات کٹی مشکل",
+              "roman": "ik umar guzari hai har raat kati mushkil",
+              "hindi": "इक उम्र गुज़ारी है, हर रात कटी मुश्किल"
+            },
+            {
+              "urdu": "بےحال مرے دل کی فریاد رسی مشکل",
+              "roman": "behaal mere dil ki faryaad rassi mushkil",
+              "hindi": "बे हाल मेरे दिल की, फ़रयाद-रसी मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "اب چارہ گروں سے بھی ترکیب نہیں ملتی",
+              "roman": "ab chara guron se bhi tarkeeb nahi milti",
+              "hindi": "अब चारा-गरों से भी तरकीब नहीं मिलती"
+            },
+            {
+              "urdu": "درماندہ پھروں گا میں، پیچیدہ مری مشکل",
+              "roman": "darmanda phirunga main, pecheeda meri mushkil",
+              "hindi": "दरमांदा फिरूंगा मैं, पेचीदा मेरी मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "کافی ہے مجھے دلبر، جتنا ہے کیا تو نے",
+              "roman": "kaafi hai mujhe dilbar, jitna hai kya tu ne",
+              "hindi": "काफ़ी है मुझे दिलबर, जितना है किया तुम"
+            },
+            {
+              "urdu": "کچھ اور کرو گے تو کر لو گے کھڑی مشکل",
+              "roman": "kuch aur karoge to kar loge khadi mushkil",
+              "hindi": "कुछ और करोगे तो कर लोगे खड़ी मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "ہر کام سے جانے کیوں اکتانے لگا ہے دل",
+              "roman": "har kaam se jaane kyu aktaane laga hai dil",
+              "hindi": "हर काम से जाने क्यों उकताने लगा है दिल"
+            },
+            {
+              "urdu": "آسان مجھے ہر شے بھی لگنے لگی مشکل",
+              "roman": "aasan mujhe har shay bhi lagne lagi mushkil",
+              "hindi": "आसान मुझे हर शै भी लगने लगी मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "سنسنان گلی دل کی ہر ایک گھڑی مشکل",
+              "roman": "sunsan gali dil ki har ek ghadi mushkil",
+              "hindi": "सुनसान गली दिल की हर एक घड़ी मुश्किल"
+            },
+            {
+              "urdu": "ہاں روٹھ گئی دنیا مشکل تو رہی مشکل",
+              "roman": "haan rooth gayi duniya, mushkil to rahi mushkil",
+              "hindi": "हां रुठ गई दुनिया, मुश्किल तो रही मुश्किल"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
