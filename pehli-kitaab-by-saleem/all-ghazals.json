@@ -921,42 +921,42 @@
         {
           "lines": [
             {
-              "urdu": "تم کیا ہی سمجھ لوگے، ہے بات بڑی مشکل",
-              "roman": "tum kya hi samajh loge, hai baat badi mushkil",
+              "urdu": "تم کیا ہی سمجھ لو گے، ہے بات بڑی مشکل",
+              "roman": "tum kya hi samajh loge, hai baat bari mushkil",
               "hindi": "तुम क्या ही समझ लोगे, है बात बड़ी मुश्किल"
             },
             {
               "urdu": "بس وہ ہی سمجھ پائے، یہ جس نے سہی مشکل",
               "roman": "bas woh hi samajh paaye, yeh jis ne sahi mushkil",
-              "hindi": "बस वो ही समझ पाए, यह जिसने सही मुश्किल"
+              "hindi": "बस वो ही समझ पाए, ये जिसने सही मुश्किल"
             }
           ]
         },
         {
           "lines": [
             {
-              "urdu": "جیون بھی مرا دشمن ہر سانس ہوئی مشکل",
-              "roman": "jeevan bhi mera dushman har saans hui mushkil",
-              "hindi": "जीवन भी मेरा दुश्मन, हर साँस हुई मुश्किल"
+              "urdu": "جیون بھی مرا دوبھر، ہر سانس ہوئی مشکل",
+              "roman": "jeevan bhi mera doobhar, har saans hui mushkil",
+              "hindi": "जीवन भी मेरा दूभर, हर साँस हुई मुश्किल"
             },
             {
               "urdu": "ہر موڑ پہ دیکھوں تو ملتی ہے نئی مشکل",
-              "roman": "har mod pe dekhun to milti hai nayi mushkil",
-              "hindi": "हर मोड़ पे देखूँ तो, मिलती है नई मुश्किल"
+              "roman": "har mod pe dekhoon to milti hai nayi mushkil",
+              "hindi": "हर मोड़ पे देखूँ तो मिलती है नई मुश्किल"
             }
           ]
         },
         {
           "lines": [
             {
-              "urdu": "جو عمر گزاری ہے ہر رات کٹی مشکل",
-              "roman": "jo umr guzari hai har raat kati mushkil",
+              "urdu": "جو عمر گزاری ہے، ہر رات کٹی مشکل",
+              "roman": "jo umr guzari hai, har raat kati mushkil",
               "hindi": "जो उम्र गुज़ारी है, हर रात कटी मुश्किल"
             },
             {
-              "urdu": "بے حال مرے دل کی فریاد رَسی مشکل",
-              "roman": "be-haal mere dil ki fariyad-rasi mushkil",
-              "hindi": "बे-हाल मेरे दिल की, फ़रियाद-रसी मुश्किल"
+              "urdu": "بے حال مرے دل کی فریاد رسی مشکل",
+              "roman": "be-haal mere dil ki faryaad-rasi mushkil",
+              "hindi": "बेहाल मेरे दिल की फ़रियाद-रसी मुश्किल"
             }
           ]
         },
@@ -964,12 +964,12 @@
           "lines": [
             {
               "urdu": "اللہ مرے دل کی جس نے بھی سنی مشکل",
-              "roman": "Allah mere dil ki jis ne bhi suni mushkil",
-              "hindi": "अल्लाहा मेरे दिल की जिसने भी सुनी मुश्किल"
+              "roman": "allah mere dil ki jis ne bhi suni mushkil",
+              "hindi": "अल्लाह मेरे दिल की जिसने भी सुनी मुश्किल"
             },
             {
               "urdu": "کہتے ہیں کہ تیرے دل کی چارہ گری مشکل",
-              "roman": "kehte hain ke tere dil ki chaara-gari mushkil",
+              "roman": "kehte hain ke tere dil ki chara-gari mushkil",
               "hindi": "कहते हैं कि तेरे दिल की चारा-गरी मुश्किल"
             }
           ]
@@ -978,13 +978,13 @@
           "lines": [
             {
               "urdu": "اب چارہ گروں سے بھی ترکیب نہیں ملتی",
-              "roman": "ab chaara-garon se bhi tarkeeb nahi milti",
+              "roman": "ab chara-garon se bhi tarkeeb nahi milti",
               "hindi": "अब चारा-गरों से भी तरकीब नहीं मिलती"
             },
             {
               "urdu": "درماندہ پھروں گا میں، پیچیدہ مری مشکل",
-              "roman": "darmanda phirunga main, pecheeda meri mushkil",
-              "hindi": "दरमांदा फिरूँगा मैं पेचीदा मेरी मुश्किल"
+              "roman": "darmaanda phiroonga main, pecheeda meri mushkil",
+              "hindi": "दरमाँदा फिरूँगा मैं, पेचीदा मेरी मुश्किल"
             }
           ]
         },
@@ -1019,14 +1019,14 @@
         {
           "lines": [
             {
-              "urdu": "انسان کی قسمت میں سب کچھ ہے لکھا پہلے",
-              "roman": "insaan ki qismat mein sab kuch hai likha pehle",
-              "hindi": "इंसान की क़िस्मत में सब कुछ है लिखा पहले"
+              "urdu": "پہلے سے لکھا ہے سب انسان کی قسمت میں",
+              "roman": "pehle se likha hai sab insaan ki qismat mein",
+              "hindi": "पहले से लिखा है सब इंसान की क़िस्मत में"
             },
             {
               "urdu": "اک بار جو آیا ہے پھر جان بری مشکل",
-              "roman": "ik baar jo aaya hai phir jaan-bari mushkil",
-              "hindi": "इक बार जो आया है फिर जान-बरी मुश्किल"
+              "roman": "ik baar jo aaya hai phir jaan bari mushkil",
+              "hindi": "एक बार जो आया है फिर जान बरी मुश्किल"
             }
           ]
         },
@@ -1038,8 +1038,8 @@
               "hindi": "जिस तरह की इक मुश्किल थी आन पड़ी तुझको"
             },
             {
-              "urdu": "مجھ کو بھی لے ڈوبے گی، ویسی ہی کوئی مشکل",
-              "roman": "mujh ko bhi le doobegi, waisi hi koi mushkil",
+              "urdu": "مجھ کو بھی لے ڈوبے گی ویسی ہی کوئی مشکل",
+              "roman": "mujh ko bhi le doobegi waisi hi koi mushkil",
               "hindi": "मुझको भी ले डूबेगी वैसी ही कोई मुश्किल"
             }
           ]
@@ -1047,13 +1047,13 @@
         {
           "lines": [
             {
-              "urdu": "کافی ہے مجھے دِلبَر، جتنا ہے  كِيا تم نے",
+              "urdu": "کافی ہے مجھے دلبر، جتنا ہے کیا تم نے",
               "roman": "kaafi hai mujhe dilbar, jitna hai kiya tum ne",
               "hindi": "काफ़ी है मुझे दिलबर, जितना है किया तुमने"
             },
             {
-              "urdu": "کچھ اور کرو گے تو کر لوگے کھڑی مشکل",
-              "roman": "kuch aur karoge to kar loge khadi mushkil",
+              "urdu": "کچھ اور کرو گے تو کر لو گے کھڑی مشکل",
+              "roman": "kuch aur karoge to kar loge khari mushkil",
               "hindi": "कुछ और करोगे तो कर लोगे खड़ी मुश्किल"
             }
           ]
@@ -1062,13 +1062,13 @@
           "lines": [
             {
               "urdu": "ہر کام سے جانے کیوں اکتانے لگا ہے دل",
-              "roman": "har kaam se jaane kyun uktaane laga hai dil",
+              "roman": "har kaam se jaane kyun uktane laga hai dil",
               "hindi": "हर काम से जाने क्यों उकताने लगा है दिल"
             },
             {
               "urdu": "آسان تریں ہر شے بھی لگنے لگی مشکل",
               "roman": "aasaan tareen har shay bhi lagne lagi mushkil",
-              "hindi": "आसान-तरीं हर शै भी लगने लगी मुश्किल"
+              "hindi": "आसान तरीन हर शै भी लगने लगी मुश्किल"
             }
           ]
         },
@@ -1083,6 +1083,34 @@
               "urdu": "سب روٹھ گئے مجھ سے، مشکل تو رہی مشکل",
               "roman": "sab rooth gaye mujh se, mushkil to rahi mushkil",
               "hindi": "सब रूठ गए मुझसे, मुश्किल तो रही मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "تنہا ہی میں رہتا ہوں، تنہائی مری محفل",
+              "roman": "tanha hi main rehta hoon, tanhai meri mehfil",
+              "hindi": "तन्हा ही मैं रहता हूँ, तन्हाई मेरी महफ़िल"
+            },
+            {
+              "urdu": "اس دور میں تو رکھنا ہے زندہ دلی مشکل",
+              "roman": "is daur mein to rakhna hai zinda-dili mushkil",
+              "hindi": "इस दौर में तो रखना है ज़िंदा-दिली मुश्किल"
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "urdu": "مسکان نہیں آئی چہرے پہ مرے عارض ؔ",
+              "roman": "muskaan nahi aayi chehre pe mere Aariz",
+              "hindi": "मुस्कान नहीं आई चेहरे पे मेरे आरिज़"
+            },
+            {
+              "urdu": "سچ بات بتاؤں تو ہاں آج لگی مشکل",
+              "roman": "sach baat bataoon to haan aaj lagi mushkil",
+              "hindi": "सच बात बताऊँ तो हाँ आज लगी मुश्किल"
             }
           ]
         }
